@@ -12,6 +12,18 @@ Hello, world! I am Nathanne Isip. A student currently studying BS Computer Scien
 
 ## 🧬 Skills
 
+- **My Fortes**
+
+	Software development, Android app development, web development (front-end and server-side), and Arduino firmware sketching.
+
+- **Languages**
+
+	Java, C#, C/C++, PHP, ES7-11, HTML5/CSS, SQL
+
+- **Additional Skills**
+
+	PCB designing, Photoshop, and Googling.
+
 ## 📈 My GitHub Stats
 
 <div align="center">
