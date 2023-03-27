@@ -28,7 +28,12 @@ Hello, world! I am Nathanne Isip. A student currently studying BS Computer Scien
 
 <div align="center">
 
-[![My GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=nthnn&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/nthnn/github-readme-stats#gh-dark-mode-only)
-[![My GitHub Stats - Light](https://github-readme-stats.vercel.app/api?username=nthnn&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nthnn/github-readme-stats#gh-light-mode-only)
+![My GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=nthnn&show_icons=true&theme=dark#gh-dark-mode-only)
+
+![My GitHub Stats - Light](https://github-readme-stats.vercel.app/api?username=nthnn&show_icons=true&theme=default#gh-light-mode-only)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nthnn)
 
 </div>
