@@ -31,10 +31,10 @@ Hello, world! I am Nathanne Isip. A student currently studying BS Computer Scien
 [![My GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=nthnn&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=nthnn&show_icons=true&theme=dark#gh-dark-mode-only)
 [![My GitHub Stats - Light](https://github-readme-stats.vercel.app/api?username=nthnn&show_icons=true&theme=light#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=nthnn&show_icons=true&theme=light#gh-light-mode-only)
 
-[![Most Used Languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&theme=dark#gh-dark-mode-only)
-[![Most Used Languages - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&theme=light#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&theme=light#gh-light-mode-only)
-
 [![Streak Stats - Dark](https://github-readme-streak-stats.herokuapp.com/?user=nthnn&theme=dark#gh-dark-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=nthnn&theme=dark#gh-dark-mode-only)
 [![Streak Stats - Light](https://github-readme-streak-stats.herokuapp.com/?user=nthnn&theme=light#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=nthnn&theme=light#gh-light-mode-only)
+
+[![Most Used Languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&theme=dark#gh-dark-mode-only)
+[![Most Used Languages - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&theme=light#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&theme=light#gh-light-mode-only)
 
 </div>
