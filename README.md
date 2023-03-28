@@ -12,17 +12,11 @@ Hello, world! I am Nathanne Isip. A student currently studying BS Computer Scien
 
 ## 🧬 Skills
 
-- **My Fortes**
+Software development, Android app development, web development (front-end and server-side), and Arduino firmware sketching.
 
-	Software development, Android app development, web development (front-end and server-side), and Arduino firmware sketching.
+![C#](https://img.shields.io/static/v1?label=&message=CSharp&color=blue) ![Java](https://img.shields.io/static/v1?label=&message=Java&color=orange) ![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=yellow) ![C/C++](https://img.shields.io/static/v1?label=&message=C%2FC%2B%2B&color=green) ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=red) ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=bluegreen) ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=white) ![Arduino](https://img.shields.io/static/v1?label=&message=Arduino&color=gray) ![Adafruit](https://img.shields.io/static/v1?label=&message=Adafruit&color=orange) ![AVR PIC](https://img.shields.io/static/v1?label=&message=AVR+PIC&color=yellow) ![Espressif](https://img.shields.io/static/v1?label=&message=Espressif&color=green) ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=blueviolet) ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=blue) ![jQuery](https://img.shields.io/static/v1?label=&message=jQuery&color=orange) ![ElectronJS](https://img.shields.io/static/v1?label=&message=ElectronJS&color=yellow) ![Visual Studio](https://img.shields.io/static/v1?label=&message=Visual+Studio&color=green) ![IntelliJ](https://img.shields.io/static/v1?label=&message=IntelliJ&color=red) ![Android Studio](https://img.shields.io/static/v1?label=&message=Android+Studio&color=bluegreen) ![NetBeans](https://img.shields.io/static/v1?label=&message=NeatBeans&color=white) ![XAMPP](https://img.shields.io/static/v1?label=&message=XAMPP&color=gray)
 
-- **Languages**
-
-	Java, C#, C/C++, PHP, ES7-11, HTML5/CSS, SQL
-
-- **Additional Skills**
-
-	PCB designing, Photoshop, and Googling.
+My additional Skills PCB designing, Photoshop, 2D game map editing with TileMap, and Googling.
 
 ## 📈 My GitHub Stats
 
