@@ -27,6 +27,6 @@ My additional skills are PCB designing, Photoshop, 2D game map editing with Tile
 ## 📈 My GitHub Stats
 
 <div align="center">
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nthnn&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&layout=compact&theme=onedark&hide_border=true&title_color=e9ecef&text_color=e9ecef&bg_color=272b30)
+	<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nthnn&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" />
+	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&layout=compact&theme=onedark&hide_border=true&title_color=e9ecef&text_color=e9ecef&bg_color=272b30" />
 </div>
