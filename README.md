@@ -4,7 +4,7 @@
 
 # Howdy! I'm [nthnn](https://nthnn.github.io).
 
-I am a student, full-stack develop, software engineer, mobile app developer, web developer, and an embedded system hobbyist.
+I am a student, full-stack developer, software engineer, mobile app developer, web developer, and an embedded system hobbyist.
 
 <div align="center">
 	<a target="_blank" href="https://twitter.com/nathannestein"><img src="./assets/twitter.svg" /></a>
