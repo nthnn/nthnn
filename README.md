@@ -16,6 +16,8 @@ I am a student, full-stack develop, software engineer, mobile app developer, web
 
 Hello, world! I am Nathanne Isip. A student currently studying BS Computer Science. I am aspiring to be one of the future modern technology pioneers.
 
+<a href="#"><img src="https://komarev.com/ghpvc/?username=nthnn&label=Profile%20Visits" /></a>
+
 ## 🧬 Skills
 
 Software development, Android app development, web development (front-end and server-side), and Arduino firmware sketching.
