@@ -31,7 +31,7 @@ Software development, Android app development, web development (front-end and se
 	<a href="https://kotlinlang.org"><img src="assets/ic-kotlin.png" width="48" /></a>
 	<br/>
 	<a href="#"><img src="assets/ic-typescript.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-javascript.png" width="48" /></a>
+	<a href="#"><img src="assets/ic-js.png" width="48" /></a>
 	<a href="#"><img src="assets/ic-html5.png" width="48" /></a>
 	<a href="#"><img src="assets/ic-css3.png" width="48" /></a>
 	<a href="#"><img src="assets/ic-bootstrap.png" width="48" /></a>
