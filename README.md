@@ -30,12 +30,12 @@ Software development, Android app development, web development (front-end and se
 	<a href="https://cplusplus.com/"><img src="assets/ic-cpp.png" width="48" /></a>
 	<a href="https://kotlinlang.org"><img src="assets/ic-kotlin.png" width="48" /></a>
 	<br/>
-	<a href="#"><img src="assets/ic-typescript.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-js.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-html5.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-css3.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-bootstrap.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-jquery.png" width="48" /></a>
+	<a href="https://www.typescriptlang.org"><img src="assets/ic-typescript.png" width="48" /></a>
+	<a href="https://www.javascript.com"><img src="assets/ic-js.png" width="48" /></a>
+	<a href="https://html5.org"><img src="assets/ic-html5.png" width="48" /></a>
+	<a href="https://www.css3.com"><img src="assets/ic-css3.png" width="48" /></a>
+	<a href="https://getbootstrap.com"><img src="assets/ic-bootstrap.png" width="48" /></a>
+	<a href="https://jquery.com"><img src="assets/ic-jquery.png" width="48" /></a>
 </p>
 
 ![Arduino](https://img.shields.io/static/v1?label=&message=Arduino&color=gray) ![Adafruit](https://img.shields.io/static/v1?label=&message=Adafruit&color=orange) ![AVR PIC](https://img.shields.io/static/v1?label=&message=AVR+PIC&color=yellow) ![Espressif](https://img.shields.io/static/v1?label=&message=Espressif&color=green) ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=blueviolet) ![ElectronJS](https://img.shields.io/static/v1?label=&message=ElectronJS&color=yellow) ![Visual Studio](https://img.shields.io/static/v1?label=&message=Visual+Studio&color=green) ![IntelliJ](https://img.shields.io/static/v1?label=&message=IntelliJ&color=red) ![Android Studio](https://img.shields.io/static/v1?label=&message=Android+Studio&color=bluegreen) ![NetBeans](https://img.shields.io/static/v1?label=&message=NeatBeans&color=white) ![XAMPP](https://img.shields.io/static/v1?label=&message=XAMPP&color=gray) ![EasyEDA](https://img.shields.io/static/v1?label=&message=EasyEDA&color=blue)
