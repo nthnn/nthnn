@@ -37,10 +37,10 @@ Software development, Android app development, web development (front-end and se
 	<a href="https://getbootstrap.com"><img src="assets/ic-bootstrap.png" width="48" /></a>
 	<a href="https://jquery.com"><img src="assets/ic-jquery.png" width="48" /></a>
 	<br/>
-	<a href="#"><img src="assets/ic-electronjs.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-reactjs.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-mysql.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-xampp.png" width="48" /></a>
+	<a href="https://www.electronjs.org"><img src="assets/ic-electronjs.png" width="48" /></a>
+	<a href="https://react.dev"><img src="assets/ic-reactjs.png" width="48" /></a>
+	<a href="https://www.mysql.com"><img src="assets/ic-mysql.png" width="48" /></a>
+	<a href="https://www.apachefriends.org"><img src="assets/ic-xampp.png" width="48" /></a>
 	<a href="#"><img src="assets/ic-easyeda.png" width="48" /></a>
 	<a href="#"><img src="assets/ic-virtuostaff.png" width="48" /></a>
 	<br/>
