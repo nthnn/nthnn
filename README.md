@@ -46,10 +46,10 @@ Software development, Android app development, web development (front-end and se
 	<br/>
 	<a href="https://www.arduino.cc"><img src="assets/ic-arduino.png" width="48" /></a>
 	<a href="https://www.adafruit.com"><img src="assets/ic-adafruit.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-espressif.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-atmel.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-platformio.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-avr.png" width="48" /></a>
+	<a href="https://www.espressif.com"><img src="assets/ic-espressif.png" width="48" /></a>
+	<a href="https://www.microchip.com"><img src="assets/ic-atmel.png" width="48" /></a>
+	<a href="https://platformio.org"><img src="assets/ic-platformio.png" width="48" /></a>
+	<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img src="assets/ic-avr.png" width="48" /></a>
 	<br/>
 	<a href="#"><img src="assets/ic-visual-studio.png" width="48" /></a>
 	<a href="#"><img src="assets/ic-visual-studio-code.png" width="48" /></a>
