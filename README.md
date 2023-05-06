@@ -59,7 +59,6 @@ Software development, Android app development, web development (front-end and se
 	<a href="https://www.bloodshed.net"><img src="assets/ic-devcpp.png" width="48" /></a>
 </p>
 
-
 ## 📈 My GitHub Stats
 
 <div align="center">
