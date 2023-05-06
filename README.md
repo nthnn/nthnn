@@ -51,12 +51,12 @@ Software development, Android app development, web development (front-end and se
 	<a href="https://platformio.org"><img src="assets/ic-platformio.png" width="48" /></a>
 	<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img src="assets/ic-avr.png" width="48" /></a>
 	<br/>
-	<a href="#"><img src="assets/ic-visual-studio.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-visual-studio-code.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-android-studio.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-intellij.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-netbeans.png" width="48" /></a>
-	<a href="#"><img src="assets/ic-devcpp.png" width="48" /></a>
+	<a href="https://visualstudio.microsoft.com"><img src="assets/ic-visual-studio.png" width="48" /></a>
+	<a href="https://code.visualstudio.com"><img src="assets/ic-visual-studio-code.png" width="48" /></a>
+	<a href="https://developer.android.com/studio"><img src="assets/ic-android-studio.png" width="48" /></a>
+	<a href="https://www.jetbrains.com/idea/"><img src="assets/ic-intellij.png" width="48" /></a>
+	<a href="https://netbeans.apache.org"><img src="assets/ic-netbeans.png" width="48" /></a>
+	<a href="https://www.bloodshed.net"><img src="assets/ic-devcpp.png" width="48" /></a>
 </p>
 
 ## 📈 My GitHub Stats
