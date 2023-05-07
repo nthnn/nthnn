@@ -2,17 +2,12 @@
 	<img src="nthnn-circle.gif" width="200" />
 </p>
 
-# Howdy! I'm [nthnn](https://nthnn.github.io).
-
-I am a student, full-stack developer, software engineer, mobile app developer, web developer, and an embedded system hobbyist.
+# Hi, I'm [nthnn](https://nthnn.github.io)!
 
 <div align="center">
 	<a href="https://twitter.com/nathannestein"><img src="assets/btn-twitter.svg" /></a>
 	<a href="https://www.instagram.com/nathannestein/"><img src="assets/btn-instagram.svg" /></a>
 </div>
-
-
-## 👨‍💻 About Me
 
 Hello, world! I am Nathanne Isip. I am a multifaceted individual with a passion for technology, specifically web development, software engineering, and mobile app development. As a student, I am currently pursuing a Bachelor of Science degree in Computer Science, with the aspiration of becoming a pioneering force in modern technology.
 
