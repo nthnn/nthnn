@@ -7,8 +7,8 @@
 I am a student, full-stack developer, software engineer, mobile app developer, web developer, and an embedded system hobbyist.
 
 <div align="center">
-	<a target="_blank" href="https://twitter.com/nathannestein"><img src="./assets/twitter.svg" /></a>
-	<a target="_blank" href="https://www.instagram.com/nathannestein/"><img src="./assets/instagram.svg" /></a>
+	<a target="_blank" href="https://twitter.com/nathannestein"><img src="assets/btn-twitter.svg" /></a>
+	<a target="_blank" href="https://www.instagram.com/nathannestein/"><img src="assets/btn-instagram.svg" /></a>
 </div>
 
 
