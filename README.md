@@ -15,7 +15,7 @@ Hello, world! I am Nathanne Isip. I am a multifaceted individual with a passion 
 
 ## 🧬 Skills
 
-Software development, Android app development, web development (front-end and server-side), and Arduino firmware sketching.
+Here are the icon grid of languages, frameworks, technologies, and IDEs I use.
 
 <p align="center">
 	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="assets/ic-csharp.png" width="48" /></a>
