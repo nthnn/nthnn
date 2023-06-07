@@ -15,9 +15,9 @@ Hello, world! I am Nathanne Isip. I am a multifaceted individual with a passion 
 
 ## 🧬 Skills
 
-Here are the icon grid of languages, frameworks, technologies, and IDEs I use.
-
 <p align="center">
+	Here are the icon grid of languages, frameworks, technologies, and IDEs I use.
+
 	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="assets/ic-csharp.png" width="48" /></a>
 	<a href="https://www.java.com/en/"><img src="assets/ic-java.png" width="48" /></a>
 	<a href="https://www.php.net"><img src="assets/ic-php.png" width="48" /></a>
