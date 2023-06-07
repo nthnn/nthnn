@@ -8,6 +8,7 @@
 
 Hello, world! I am Nathanne Isip. I am a multifaceted individual with a passion for technology, specifically web development, software engineering, and mobile app development. As a student, I am currently pursuing a Bachelor of Science degree in Computer Science, with the aspiration of becoming a pioneering force in modern technology.
 
+<p align="center">Connect with me now at:</p>
 <div align="center">
 	<a href-"https://linkedin.com/in/nathanne-isip-310003277/"><img src="assets/smic-linkedin.png" width="32" /></a>
 	<a href="https://twitter.com/nathannestein"><img src="assets/smic-twitter.png" width="32" /></a>
@@ -17,7 +18,7 @@ Hello, world! I am Nathanne Isip. I am a multifaceted individual with a passion 
 
 ## 🧬 Skills
 
-<p align="center">Here are the icon grid of languages, frameworks, technologies, and IDEs I use.</p>
+With a diverse skill set encompassing various technologies, languages, and frameworks, I excel in mobile app development, web development, and software engineering. Proficient in C#, Java, PHP, C, C++, Kotlin, TypeScript, JavaScript, HTML5, CSS3, and Bootstrap, I have a strong foundation in creating robust and user-friendly software applications. Additionally, my expertise extends to frameworks like ReactJS, jQuery, and ElectronJS, enabling the development of dynamic and responsive web interfaces. I possess a deep understanding of database management with MySQL and have hands-on experience with tools such as XAMPP. Moreover, my proficiency in firmware development for Arduino and Espressif boards, using PlatformIO, AVR Microcontrollers, and the Arduino IDE, allows me to create innovative IoT and automation solutions. With experience in integrated development environments like Visual Studio IDE, Visual Studio Code, Android Studio, IntelliJ, NetBeans, and DevC++, I am adept at delivering high-quality projects across various platforms.
 
 <p align="center">
 	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="assets/ic-csharp.png" width="48" /></a>
