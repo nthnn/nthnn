@@ -5,8 +5,10 @@
 # Hi, I'm [nthnn](https://nthnn.github.io)!
 
 <div align="center">
-	<a href="https://twitter.com/nathannestein"><img src="assets/btn-twitter.svg" /></a>
-	<a href="https://www.instagram.com/nathannestein/"><img src="assets/btn-instagram.svg" /></a>
+	<a href-"https://linkedin.com/in/nathanne-isip-310003277/"><img src="assets/smic-linkedin.png" width="48" /></a>
+	<a href="https://twitter.com/nathannestein"><img src="assets/smic-twitter.png" width="48" /></a>
+	<a href="https://medium.com/@nthnn"><img src="assets/smic-medium.png" width="48" /></a>
+	<a href="https://www.instagram.com/nathannestein/"><img src="assets/smic-instagram.png" width="48" /></a>
 </div>
 
 Hello, world! I am Nathanne Isip. I am a multifaceted individual with a passion for technology, specifically web development, software engineering, and mobile app development. As a student, I am currently pursuing a Bachelor of Science degree in Computer Science, with the aspiration of becoming a pioneering force in modern technology.
