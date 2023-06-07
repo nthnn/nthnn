@@ -59,5 +59,6 @@ Hello, world! I am Nathanne Isip. I am a multifaceted individual with a passion 
 <div align="center">
 	<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nthnn&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" />
 	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&layout=compact&theme=onedark&hide_border=true&title_color=e9ecef&text_color=e9ecef&bg_color=272b30&hide=html,css,batchfile" />
+	<br/>
 	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nthnn&theme=nord_dark" />
 </div>
