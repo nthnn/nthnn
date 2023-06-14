@@ -35,12 +35,12 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://getbootstrap.com"><img src="assets/ic-bootstrap.png" width="48" /></a>
 	<a href="https://jquery.com"><img src="assets/ic-jquery.png" width="48" /></a>
 	<br/>
+	<a href="https://nodejs.org/en"><img src="assets/ic-nodejs.png" width="48" /></a>
 	<a href="https://www.electronjs.org"><img src="assets/ic-electronjs.png" width="48" /></a>
 	<a href="https://react.dev"><img src="assets/ic-reactjs.png" width="48" /></a>
 	<a href="https://www.mysql.com"><img src="assets/ic-mysql.png" width="48" /></a>
 	<a href="https://www.apachefriends.org"><img src="assets/ic-xampp.png" width="48" /></a>
 	<a href="https://easyeda.com"><img src="assets/ic-easyeda.png" width="48" /></a>
-	<a href="https://virtuostaff.com"><img src="assets/ic-virtuostaff.png" width="48" /></a>
 	<br/>
 	<a href="https://www.arduino.cc"><img src="assets/ic-arduino.png" width="48" /></a>
 	<a href="https://www.adafruit.com"><img src="assets/ic-adafruit.png" width="48" /></a>
@@ -55,6 +55,9 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://www.jetbrains.com/idea/"><img src="assets/ic-intellij.png" width="48" /></a>
 	<a href="https://netbeans.apache.org"><img src="assets/ic-netbeans.png" width="48" /></a>
 	<a href="https://www.bloodshed.net"><img src="assets/ic-devcpp.png" width="48" /></a>
+	<br/>
+	<a href="https://www.python.org"><img src="assets/ic-python.png" width="48" /></a>
+	<a href="https://jupyter.org"><img src="assets/ic-jupyter.png" width="48" /></a>
 </p>
 
 ## 📈 My GitHub Stats
