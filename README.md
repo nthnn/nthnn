@@ -58,7 +58,6 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<br/>
 	<a href="https://www.python.org"><img src="assets/ic-python.png" width="48" /></a>
 	<a href="https://jupyter.org"><img src="assets/ic-jupyter.png" width="48" /></a>
-
 	<a href="https://firebase.google.com"><img src="assets/ic-firebase.png" width="48" /></a>
 	<a href="https://doxygen.nl"><img src="assets/ic-doxygen.png" width="48" /></a>
 </p>
