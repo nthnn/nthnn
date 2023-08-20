@@ -6,7 +6,9 @@
 
 <a href="#"><img src="https://komarev.com/ghpvc/?username=nthnn&label=Profile%20Visits" /></a> <a href="https://medium.com/@nthnn"><img src="https://img.shields.io/badge/Medium-nthnn-@nthnn?logo=Medium&labelColor=gray&color=007ec6" /></a> <a href="https://www.linkedin.com/in/nathannestein/"><img src="https://img.shields.io/badge/LinkedIn-Nathanne%20Isip-@nathannestein?logo=LinkedIn&labelColor=gray&color=007ec6" /></a> <a href="https://twitter.com/nathannestein"><img src="https://img.shields.io/badge/Twitter-@nathannestein-X?logo=Twitter&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="#"><img src="https://img.shields.io/badge/OS-Ubuntu-Linux?logo=Ubuntu&labelColor=gray&logoColor=white&color=007ec6" /></a>
 
-Hello, world! I am Nathanne Isip. I am a multifaceted individual with a passion for technology, specifically web development, software engineering, and mobile app development. As a student, I am currently pursuing a Bachelor of Science degree in Computer Science, with the aspiration of becoming a pioneering force in modern technology.
+Hello, world! I am Nathanne Isip, an error-prone mammal and a dynamic yet versatile persona deeply imbued with an ardent ardor for the realm of technology, specifically encompassing the domains of web development, software engineering, embedded systems, and the creation of mobile applications.
+
+In the capacity of a diligent scholar, I am presently engaged in the pursuit of a distinguished Bachelor of Science degree in the realm of Computer Science, driven by an ambitious vision to emerge as a vanguard influence in the ever-evolving tapestry of contemporary technological advancement. Amidst this intellectual odyssey, My ambitions soar far beyond the mere acquisition of knowledge. The aspiration to stand as a trailblazing force in the realm of modern technology that fuels my endeavors.
 
 ## 🧬 Skills
 
