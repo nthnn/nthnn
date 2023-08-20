@@ -1,20 +1,12 @@
 <p align="center">
-	<img src="nthnn-circle.gif" width="200" />
+	<img src="img_nthnn.png" width="310" />
 </p>
 
-# Hi, I'm [nthnn](https://nthnn.github.io)!
+# 🚀 Hi, I'm [nthnn](https://nthnn.github.io)!
 
-<a href="#"><img src="https://komarev.com/ghpvc/?username=nthnn&label=Profile%20Visits" /></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=nthnn&label=Profile%20Visits" /></a> <a href="https://medium.com/@nthnn"><img src="https://img.shields.io/badge/Medium-nthnn-@nthnn?logo=Medium&labelColor=gray&color=007ec6" /></a> <a href="https://www.linkedin.com/in/nathannestein/"><img src="https://img.shields.io/badge/LinkedIn-Nathanne%20Isip-@nathannestein?logo=LinkedIn&labelColor=gray&color=007ec6" /></a> <a href="https://twitter.com/nathannestein"><img src="https://img.shields.io/badge/Twitter-@nathannestein-X?logo=Twitter&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href=""><img src="" /></a> <a href="#"><img src="https://img.shields.io/badge/OS-Ubuntu-Linux?logo=Ubuntu&labelColor=gray&logoColor=white&color=007ec6" /></a>
 
 Hello, world! I am Nathanne Isip. I am a multifaceted individual with a passion for technology, specifically web development, software engineering, and mobile app development. As a student, I am currently pursuing a Bachelor of Science degree in Computer Science, with the aspiration of becoming a pioneering force in modern technology.
-
-<p align="center">Connect with me now at:</p>
-<div align="center">
-	<a href-"https://linkedin.com/in/nathanne-isip-310003277/"><img src="assets/smic-linkedin.png" width="32" /></a>
-	<a href="https://twitter.com/nathannestein"><img src="assets/smic-twitter.png" width="32" /></a>
-	<a href="https://medium.com/@nthnn"><img src="assets/smic-medium.png" width="32" /></a>
-	<a href="https://www.instagram.com/nathannestein/"><img src="assets/smic-instagram.png" width="32" /></a>
-</div>
 
 ## 🧬 Skills
 
@@ -56,10 +48,12 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://netbeans.apache.org"><img src="assets/ic-netbeans.png" width="48" /></a>
 	<a href="https://www.bloodshed.net"><img src="assets/ic-devcpp.png" width="48" /></a>
 	<br/>
+	<a href="https://llvm.org/"><img src="assets/ic-llvm.png" width="48" /></a>
 	<a href="https://www.python.org"><img src="assets/ic-python.png" width="48" /></a>
 	<a href="https://jupyter.org"><img src="assets/ic-jupyter.png" width="48" /></a>
 	<a href="https://firebase.google.com"><img src="assets/ic-firebase.png" width="48" /></a>
 	<a href="https://doxygen.nl"><img src="assets/ic-doxygen.png" width="48" /></a>
+	<a href="https://nodemon.io/"><img src="assets/ic-nodemon.png" width="48" /></a>
 </p>
 
 ## 📈 My GitHub Stats
@@ -68,5 +62,5 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nthnn&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" />
 	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&layout=compact&theme=onedark&hide_border=true&title_color=e9ecef&text_color=e9ecef&bg_color=272b30&hide=html,css,batchfile" />
 	<br/>
-	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nthnn&theme=nord_dark" />
+	<img alt="Contributions Profile" src="https://github-readme-activity-graph.vercel.app/graph?username=nthnn&custom_title=Nathanne%20Isip%27s%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=272b30&color=ffffff" />
 </div>
