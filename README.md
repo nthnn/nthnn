@@ -10,6 +10,10 @@ Hello, world! I am Nathanne Isip, an error-prone mammal and a dynamic yet versat
 
 In the capacity of a diligent scholar, I am presently engaged in the pursuit of a distinguished Bachelor of Science degree in the realm of Computer Science, driven by an ambitious vision to emerge as a vanguard influence in the ever-evolving tapestry of contemporary technological advancement. Amidst this intellectual odyssey, My ambitions soar far beyond the mere acquisition of knowledge. The aspiration to stand as a trailblazing force in the realm of modern technology that fuels my endeavors.
 
+<p align="center">
+	<a href="https://nthnn.github.io/assets/files/nthnn-resume.pdf"><img src="https://img.shields.io/badge/Get%20my%20resume-007ec6?style=for-the-badge&logoColor=white&logo=DocuSign" /></a>
+</p>
+
 ## 🧬 Skills
 
 I possess a versatile skill set in mobile app development, web development, and software engineering. Here are the icon grid of languages, frameworks, technologies, and IDEs I use.
