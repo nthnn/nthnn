@@ -20,46 +20,55 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 <p align="center">
 	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="assets/ic-csharp.png" width="48" /></a>
+	<a href="https://dotnet.microsoft.com/en-us/"><img src="assets/ic-dotnet.png" width="48" /></a>
 	<a href="https://www.java.com/en/"><img src="assets/ic-java.png" width="48" /></a>
+	<a href="https://kotlinlang.org"><img src="assets/ic-kotlin.png" width="48" /></a>
+	<a href="https://www.python.org"><img src="assets/ic-python.png" width="48" /></a>
+	<a href="https://jupyter.org"><img src="assets/ic-jupyter.png" width="48" /></a>
+	<a href="https://git-scm.com/"><img src="assets/ic-git.png" width="48" /></a>
+	<a href="https://github.com/"><img src="assets/ic-github.png" width="48" /></a>
+	<br/>
 	<a href="https://www.php.net"><img src="assets/ic-php.png" width="48" /></a>
+	<a href="https://www.mysql.com"><img src="assets/ic-mysql.png" width="48" /></a>
+	<a href="https://www.apachefriends.org"><img src="assets/ic-xampp.png" width="48" /></a>
 	<a href="https://www.iso.org/standard/74528.html"><img src="assets/ic-clang.png" width="48" /></a>
 	<a href="https://cplusplus.com/"><img src="assets/ic-cpp.png" width="48" /></a>
-	<a href="https://kotlinlang.org"><img src="assets/ic-kotlin.png" width="48" /></a>
+	<a href="https://doxygen.nl"><img src="assets/ic-doxygen.png" width="48" /></a>
+	<a href="https://llvm.org/"><img src="assets/ic-llvm.png" width="48" /></a>
+	<a href="https://nodejs.org/en"><img src="assets/ic-nodejs.png" width="48" /></a>
 	<br/>
+	<a href="https://nodemon.io/"><img src="assets/ic-nodemon.png" width="48" /></a>
+	<a href="https://parceljs.org/"><img src="assets/ic-parcel.png" width="48" /></a>
 	<a href="https://www.typescriptlang.org"><img src="assets/ic-typescript.png" width="48" /></a>
 	<a href="https://www.javascript.com"><img src="assets/ic-js.png" width="48" /></a>
+	<a href="https://babeljs.io/"><img src="assets/ic-babel.png" width="48" /></a>
+	<a href="https://www.electronjs.org"><img src="assets/ic-electronjs.png" width="48" /></a>
+	<a href="https://react.dev"><img src="assets/ic-reactjs.png" width="48" /></a>
+	<a href="https://postcss.org/"><img src="assets/ic-postcss.png" width="48" /></a>
+	<br/>
+	<a href="https://tailwindcss.com/"><img src="assets/ic-tailwind.png" width="48" /></a>
+	<a href="https://flowbite.com/"><img src="assets/ic-flowbite.png" width="48" /></a>
+	<a href="https://firebase.google.com"><img src="assets/ic-firebase.png" width="48" /></a>
 	<a href="https://html5.org"><img src="assets/ic-html5.png" width="48" /></a>
 	<a href="https://www.css3.com"><img src="assets/ic-css3.png" width="48" /></a>
 	<a href="https://getbootstrap.com"><img src="assets/ic-bootstrap.png" width="48" /></a>
 	<a href="https://jquery.com"><img src="assets/ic-jquery.png" width="48" /></a>
-	<br/>
-	<a href="https://nodejs.org/en"><img src="assets/ic-nodejs.png" width="48" /></a>
-	<a href="https://www.electronjs.org"><img src="assets/ic-electronjs.png" width="48" /></a>
-	<a href="https://react.dev"><img src="assets/ic-reactjs.png" width="48" /></a>
-	<a href="https://www.mysql.com"><img src="assets/ic-mysql.png" width="48" /></a>
-	<a href="https://www.apachefriends.org"><img src="assets/ic-xampp.png" width="48" /></a>
-	<a href="https://easyeda.com"><img src="assets/ic-easyeda.png" width="48" /></a>
-	<br/>
 	<a href="https://www.arduino.cc"><img src="assets/ic-arduino.png" width="48" /></a>
-	<a href="https://www.adafruit.com"><img src="assets/ic-adafruit.png" width="48" /></a>
-	<a href="https://www.espressif.com"><img src="assets/ic-espressif.png" width="48" /></a>
-	<a href="https://www.microchip.com"><img src="assets/ic-atmel.png" width="48" /></a>
-	<a href="https://platformio.org"><img src="assets/ic-platformio.png" width="48" /></a>
-	<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img src="assets/ic-avr.png" width="48" /></a>
 	<br/>
+	<a href="https://www.espressif.com"><img src="assets/ic-espressif.png" width="48" /></a>
+	<a href="https://platformio.org"><img src="assets/ic-platformio.png" width="48" /></a>
+	<a href="https://www.adafruit.com"><img src="assets/ic-adafruit.png" width="48" /></a>
+	<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img src="assets/ic-avr.png" width="48" /></a>
+	<a href="https://www.microchip.com"><img src="assets/ic-atmel.png" width="48" /></a>
+	<a href="https://easyeda.com"><img src="assets/ic-easyeda.png" width="48" /></a>
 	<a href="https://visualstudio.microsoft.com"><img src="assets/ic-visual-studio.png" width="48" /></a>
 	<a href="https://code.visualstudio.com"><img src="assets/ic-visual-studio-code.png" width="48" /></a>
+	<br/>
 	<a href="https://developer.android.com/studio"><img src="assets/ic-android-studio.png" width="48" /></a>
 	<a href="https://www.jetbrains.com/idea/"><img src="assets/ic-intellij.png" width="48" /></a>
 	<a href="https://netbeans.apache.org"><img src="assets/ic-netbeans.png" width="48" /></a>
 	<a href="https://www.bloodshed.net"><img src="assets/ic-devcpp.png" width="48" /></a>
 	<br/>
-	<a href="https://llvm.org/"><img src="assets/ic-llvm.png" width="48" /></a>
-	<a href="https://www.python.org"><img src="assets/ic-python.png" width="48" /></a>
-	<a href="https://jupyter.org"><img src="assets/ic-jupyter.png" width="48" /></a>
-	<a href="https://firebase.google.com"><img src="assets/ic-firebase.png" width="48" /></a>
-	<a href="https://doxygen.nl"><img src="assets/ic-doxygen.png" width="48" /></a>
-	<a href="https://nodemon.io/"><img src="assets/ic-nodemon.png" width="48" /></a>
 </p>
 
 ## 📈 My GitHub Stats
