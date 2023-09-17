@@ -43,8 +43,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://www.javascript.com"><img src="assets/ic-js.png" width="48" /></a>
 	<a href="https://babeljs.io/"><img src="assets/ic-babel.png" width="48" /></a>
 	<a href="https://www.electronjs.org"><img src="assets/ic-electronjs.png" width="48" /></a>
-	<a href="https://react.dev"><img src="assets/ic-reactjs.png" width="48" /></a>
-	<a href="https://postcss.org/"><img src="assets/ic-postcss.png" width="48" /></a>
+	<a href="https://react.dev"><img src="assets/ic-reactjs.png" width="48" /></a>	<a href="https://postcss.org/"><img src="assets/ic-postcss.png" width="48" /></a>
 	<br/>
 	<a href="https://tailwindcss.com/"><img src="assets/ic-tailwind.png" width="48" /></a>
 	<a href="https://flowbite.com/"><img src="assets/ic-flowbite.png" width="48" /></a>
@@ -53,17 +52,19 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://www.css3.com"><img src="assets/ic-css3.png" width="48" /></a>
 	<a href="https://getbootstrap.com"><img src="assets/ic-bootstrap.png" width="48" /></a>
 	<a href="https://jquery.com"><img src="assets/ic-jquery.png" width="48" /></a>
-	<a href="https://www.arduino.cc"><img src="assets/ic-arduino.png" width="48" /></a>
+	<a href="https://phaser.io/"><img src="assets/ic-phaser.png" width="48" /></a>
 	<br/>
+	<a href="https://jestjs.io"><img src="assets/ic-jest.png" width="48" /></a>
+	<a href="https://www.arduino.cc"><img src="assets/ic-arduino.png" width="48" /></a>
 	<a href="https://www.espressif.com"><img src="assets/ic-espressif.png" width="48" /></a>
 	<a href="https://platformio.org"><img src="assets/ic-platformio.png" width="48" /></a>
 	<a href="https://www.adafruit.com"><img src="assets/ic-adafruit.png" width="48" /></a>
 	<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img src="assets/ic-avr.png" width="48" /></a>
 	<a href="https://www.microchip.com"><img src="assets/ic-atmel.png" width="48" /></a>
 	<a href="https://easyeda.com"><img src="assets/ic-easyeda.png" width="48" /></a>
+	<br/>
 	<a href="https://visualstudio.microsoft.com"><img src="assets/ic-visual-studio.png" width="48" /></a>
 	<a href="https://code.visualstudio.com"><img src="assets/ic-visual-studio-code.png" width="48" /></a>
-	<br/>
 	<a href="https://developer.android.com/studio"><img src="assets/ic-android-studio.png" width="48" /></a>
 	<a href="https://www.jetbrains.com/idea/"><img src="assets/ic-intellij.png" width="48" /></a>
 	<a href="https://netbeans.apache.org"><img src="assets/ic-netbeans.png" width="48" /></a>
