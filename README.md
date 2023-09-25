@@ -86,7 +86,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 <div align="center">
 	<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nthnn&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" />
-	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&layout=compact&theme=onedark&hide_border=true&title_color=e9ecef&text_color=e9ecef&bg_color=272b30&hide=html,css,batchfile,jupyter+notebook&langs_count=8&size_weight=0.5&count_weight=0.5" />
+	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&layout=compact&theme=onedark&hide_border=true&title_color=e9ecef&text_color=e9ecef&bg_color=272b30&hide=html,css,batchfile,jupyter+notebook,shell,cmake&langs_count=10&size_weight=0.5&count_weight=0.5" />
 	<br/>
 	<img alt="Contributions Profile" src="https://github-readme-activity-graph.vercel.app/graph?username=nthnn&custom_title=Nathanne%20Isip%27s%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=272b30&color=ffffff" />
 </div>
