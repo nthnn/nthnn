@@ -4,7 +4,7 @@
 
 # 🚀 Hi, I'm [nthnn](https://nthnn.github.io)!
 
-<a href="#"><img src="https://komarev.com/ghpvc/?username=nthnn&label=Profile%20Visits" /></a> <a href="https://medium.com/@nthnn"><img src="https://img.shields.io/badge/Medium-nthnn-@nthnn?logo=Medium&labelColor=gray&color=007ec6" /></a> <a href="https://www.linkedin.com/in/nathannestein/"><img src="https://img.shields.io/badge/LinkedIn-Nathanne%20Isip-@nathannestein?logo=LinkedIn&labelColor=gray&color=007ec6" /></a> <a href="https://twitter.com/nathannestein"><img src="https://img.shields.io/badge/Twitter-@nathannestein-X?logo=Twitter&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="#"><img src="https://img.shields.io/badge/OS-Ubuntu-Linux?logo=Ubuntu&labelColor=gray&logoColor=white&color=007ec6" /></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=nthnn&label=Profile%20Visits" /></a> <a href="https://medium.com/@nthnn"><img src="https://img.shields.io/badge/Medium-nthnn-@nthnn?logo=Medium&labelColor=gray&color=007ec6" /></a> <a href="https://www.linkedin.com/in/nathannestein/"><img src="https://img.shields.io/badge/LinkedIn-Nathanne%20Isip-@nathannestein?logo=LinkedIn&labelColor=gray&color=007ec6" /></a> <a href="https://twitter.com/nathannestein"><img src="https://img.shields.io/badge/Twitter-@nathannestein-X?logo=Twitter&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="#"><img src="https://img.shields.io/badge/OS-macOS-apple?logo=apple&labelColor=gray&logoColor=white&color=007ec6" /></a>
 
 Hello, world! I am Nathanne Isip, an error-prone mammal and a dynamic yet versatile persona deeply imbued with an ardent ardor for the realm of technology, specifically encompassing the domains of web development, software engineering, embedded systems, and the creation of mobile applications.
 
@@ -92,7 +92,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<img alt="Contributions Profile" src="https://github-readme-activity-graph.vercel.app/graph?username=nthnn&custom_title=Nathanne%20Isip%27s%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=272b30&color=ffffff" />
 </div>
 
-## Projects
+## My Projects
 
 - [rheolaeth](https://github.com/nthnn/rheolaeth) - Rheolaeth is a remote tool for controlling shell via HTTP connection using another device in network.
 - [Qrepo](https://github.com/nthnn/Qrepo) - Simple and easy-to-use all-for-one build tool for Windows, Linux, and macOS.
