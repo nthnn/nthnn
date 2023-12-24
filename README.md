@@ -92,36 +92,39 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<img alt="Contributions Profile" src="https://github-readme-activity-graph.vercel.app/graph?username=nthnn&custom_title=Nathanne%20Isip%27s%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=272b30&color=ffffff" />
 </div>
 
-## My Projects
+## Projects
 
-<p align="center">
-    <a href="https://github.com/nthnn/QLBase"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=QLBase&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="QLBase"></a>
-    <a href="https://github.com/nthnn/AnkoWeb"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=AnkoWeb&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="AnkoWeb"></a>
-    <a href="https://github.com/nthnn/Jessy-OS"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Jessy-OS&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Jessy OS"></a>
-    <a href="https://github.com/nthnn/SIM900"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=SIM900&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="SIM900"></a>
-    <a href="https://github.com/nthnn/Planet096"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Planet096&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Planet096"></a>
-    <a href="https://github.com/nthnn/yttria-lang"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=yttria-lang&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Yttria Programming Language"></a>
-    <a href="https://github.com/nthnn/Brillo-8"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Brillo-8&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Brillo-8"></a>
-    <a href="https://github.com/nthnn/Hopia"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Hopia&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Hopia"></a>
-    <a href="https://github.com/nthnn/PortaMob"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=PortaMob&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="PortaMob"></a>
-    <a href="https://github.com/nthnn/Diwa"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Diwa&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Diwa"></a>
-    <a href="https://github.com/nthnn/Mental-Health-x-Music"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Metal-Health-x-Music&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Mental Health x Music"></a>
-    <a href="https://github.com/nthnn/TCS3200"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=TCS3200&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="TCS3200"></a>
-    <a href="https://github.com/nthnn/Monitoria"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Monitoria&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Monitoria"></a>
-    <a href="https://github.com/nthnn/VoxHAUT-Roamer"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=VoxHAUT-Roamer&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="VoxHAUT Roamer"></a>
-    <a href="https://github.com/nthnn/MaskUp"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=MaskUp&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="PH4502C Sensor"></a>
-    <a href="https://github.com/nthnn/Navigador"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Navigador&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Navigador"></a>
-    <a href="https://github.com/nthnn/Anomalia"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Anomalia&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Anomalia"></a>
-    <a href="https://github.com/nthnn/PH4502C-Sensor"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=PH4502C-Sensor&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="PH4502C-Sensor"></a>
-    <a href="https://github.com/nthnn/VizhPort"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=VizhPort&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="VizhPort"></a>
-    <a href="https://github.com/nthnn/Recognito"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Recognito&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Recognito"></a>
-    <a href="https://github.com/nthnn/Arduquarium"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Arduquarium&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Arduquarium"></a>
-    <a href="https://github.com/nthnn/Batch2Exe"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Batch2Exe&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Batch2Exe"></a>
-    <a href="https://github.com/nthnn/Fakfak-Bird-OLED"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Fakfak-Bird-OLED&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Fakfak Bird OLED"></a>
-    <a href="https://github.com/nthnn/Musiccini"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Musiccini&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Musiccini"></a>
-    <a href="https://github.com/J9N8/j9n8.github.io"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J9N8&repo=j9n8.github.io&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="j9n8.github.io"></a>
-    <a href="https://github.com/nthnn/UrPh-News"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=UrPh-News&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="UrPh News"></a>
-    <a href="https://github.com/nthnn/nougat-lang"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=nougat-lang&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Nougat"></a>
-    <a href="https://github.com/nthnn/Lanzaplicacion"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=Lanzaplicacion&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="Lanzaplicacion"></a>
-    <a href="https://github.com/nthnn/OTG-Nilboard"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nthnn&repo=OTG-Nilboard&bg_color=272b30&title_color=e9ecef&hide_border=true&icon_color=7a8288&show_icons=true&show_description=true" alt="OTG-Nilboard"></a>
-</p>
+- [rheolaeth](https://github.com/nthnn/rheolaeth) - Rheolaeth is a remote tool for controlling shell via HTTP connection using another device in network.
+- [Qrepo](https://github.com/nthnn/Qrepo) - Simple and easy-to-use all-for-one build tool for Windows, Linux, and macOS.
+- [Zync-OS](https://github.com/nthnn/Zync-OS) - Mock-up bootloader and kernel-only operating system with a very basic boring shell written in pure Assembly.
+- [wtfC](https://github.com/nthnn/wtfC) - Playful language extension for C and C++ that introduces unconventional and humorous macros aims to add a touch of creativity.
+- [microlzw](https://github.com/nthnn/microlzw) - Embeddable micro Lempel-Ziv-Welch compression library for strings.
+- [astroclock](https://github.com/nthnn/astroclock) - Cute desktop date and time display with Arduino Nano and monochromatic SH1106.
+- [QLBase](https://github.com/nthnn/QLBase) - Decentralizable, scalable, and reliable backend solution alternative to traditional NoSQL, SaaS, and cloud-based services.
+- [AnkoWeb](https://github.com/nthnn/AnkoWeb) - Versatile scripting language and middleware designed for web development, running on the Anko virtual machine.
+- [Jessy-OS](https://github.com/nthnn/Jessy-OS) - Embedded Operating System for ESP32 microcontroller unit that runs JavaScript via Duktape.
+- [SIM900](https://github.com/nthnn/SIM900) - A much more comprehensive library for Arduino SIM900 shield.
+- [Planet096](https://github.com/nthnn/Planet096) - SSD1306-based Monochromatic GUI library for OLED 0.96" inch (128x64 pixels) display in Arduino.
+- [yttria-lang](https://github.com/nthnn/yttria-lang) - Yttria programming language using LLVM bindings in pure TypeScript.
+- [Brillo-8](https://github.com/nthnn/Brillo-8) - A programmable pocket computer with an embedded virtual machine.
+- [Hopia](https://github.com/nthnn/Hopia) - Hopia is a powerful and versatile wannabe penetration testing tool designed for ethical and legitimate security testing purposes.
+- [PortaMob](https://github.com/nthnn/PortaMob) - Portable Mobile device-like shield for UNO-like boards; an ingenious extension for the Arduino UNO platform.
+- [Diwa](https://github.com/nthnn/Diwa) - Arduino lightweight surface library for Artificial Intelligence development and Machine Learning.
+- [TCS3200](https://github.com/nthnn/TCS3200) - Comprehensive Arduino library for TCS3200 color sensor.
+- [Monitoria](https://github.com/nthnn/Monitoria) - Advance attendance monitoring system with ESP8266 NodeMCU, RFID-RC522, SIM800L, LCD I2C, and a custom web application.
+- [VoxHAUT-Roamer](https://github.com/nthnn/VoxHAUT-Roamer) - Interactive companion pet robot on ESP8266 (Arduino) with Android phone app for communication.
+- [MaskUp](https://github.com/nthnn/MaskUp) - Simple program that can identify if an individual is wearing a face mask.
+- [Navigador](https://github.com/nthnn/Navigador) - Arduino library for dual DC motor navigation.
+- [Anomalia](https://github.com/nthnn/Anomalia) - Arduino library for data processing anomalies.
+- [PH4502C-Sensor](https://github.com/nthnn/PH4502C-Sensor) - Comprehensive and easy-to-use Arduino library for PH4502C pH level and temperature sensor.
+- [VizhPort](https://github.com/nthnn/VizhPort) - A Python program to monitor the serial port with PyQTGraph's visualization.
+- [Recognito](https://github.com/nthnn/Recognito) - Mini-silly image classifier UI with tensorflow and PyQT5.
+- [Arduquarium](https://github.com/nthnn/Arduquarium) - Automated aquarium recycling with Arduino UNO.
+- [Batch2Exe](https://github.com/nthnn/Batch2Exe) - Easy-to-use Windows Batch File to executable file converter/wrapper with Swing GUI.
+- [Fakfak-Bird-OLED](https://github.com/nthnn/Fakfak-Bird-OLED) - A fun Flappy Bird-like game in Arduino Nano
+- [Mussicini](https://github.com/nthnn/Musiccini) - Arduino Ultra-lightweight Music Synthesis Library
+- [j9n8.github.io](https://github.com/J9N8/j9n8.github.io) - J9N8's Official Website
+- [UrPh News](https://github.com/nthnn/UrPh-News) - Minimalistic news outlet Android app.
+- [nougat-lang](https://github.com/nthnn/nougat-lang) - An obsolete dynamic scripting yet general-purpose programming language for absolutely nothing written in C#.
+- [Lanzaplicacion](https://github.com/nthnn/Lanzaplicacion) - Android launcher with a super minimalist and primitive-looking UI.
+- [OTG-Nilboard](https://github.com/nthnn/OTG-Nilboard) - Android smartphone app to suppress the default keyboard.
