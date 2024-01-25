@@ -94,6 +94,8 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [medium](https://github.com/nthnn/medium) - My GitHub repository collection of Medium blogs, articles, and related content blogs, articles, and such.
+- [diwa](https://github.com/nthnn/diwa) - Lightweight simple implementation of Artificial Neural Network for microcontrollers.
 - [rheolaeth](https://github.com/nthnn/rheolaeth) - Rheolaeth is a remote tool for controlling shell via HTTP connection using another device in network.
 - [Qrepo](https://github.com/nthnn/Qrepo) - Simple and easy-to-use all-for-one build tool for Windows, Linux, and macOS.
 - [Zync-OS](https://github.com/nthnn/Zync-OS) - Mock-up bootloader and kernel-only operating system with a very basic boring shell written in pure Assembly.
@@ -109,7 +111,6 @@ I possess a versatile skill set in mobile app development, web development, and 
 - [Brillo-8](https://github.com/nthnn/Brillo-8) - A programmable pocket computer with an embedded virtual machine.
 - [Hopia](https://github.com/nthnn/Hopia) - Hopia is a powerful and versatile wannabe penetration testing tool designed for ethical and legitimate security testing purposes.
 - [PortaMob](https://github.com/nthnn/PortaMob) - Portable Mobile device-like shield for UNO-like boards; an ingenious extension for the Arduino UNO platform.
-- [Diwa](https://github.com/nthnn/Diwa) - Arduino lightweight surface library for Artificial Intelligence development and Machine Learning.
 - [TCS3200](https://github.com/nthnn/TCS3200) - Comprehensive Arduino library for TCS3200 color sensor.
 - [Monitoria](https://github.com/nthnn/Monitoria) - Advance attendance monitoring system with ESP8266 NodeMCU, RFID-RC522, SIM800L, LCD I2C, and a custom web application.
 - [VoxHAUT-Roamer](https://github.com/nthnn/VoxHAUT-Roamer) - Interactive companion pet robot on ESP8266 (Arduino) with Android phone app for communication.
