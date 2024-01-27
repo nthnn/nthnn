@@ -94,6 +94,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [ladivic](https://github.com/nthnn/ladivic) - C++ library designed to provide system-level thread- and fail-safe functions with concurrency, atomic, file I/O, IPC, memory management, and system information retrieval functionalities.
 - [medium](https://github.com/nthnn/medium) - My GitHub repository collection of Medium blogs, articles, and related content blogs, articles, and such.
 - [diwa](https://github.com/nthnn/diwa) - Lightweight simple implementation of Artificial Neural Network for microcontrollers.
 - [rheolaeth](https://github.com/nthnn/rheolaeth) - Rheolaeth is a remote tool for controlling shell via HTTP connection using another device in network.
