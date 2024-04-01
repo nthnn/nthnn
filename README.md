@@ -95,12 +95,12 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [diwa](https://github.com/nthnn/diwa) - Lightweight simple implementation of Artificial Neural Network for Arduino ESP32, ESP8266, RP2040, PlayStation Portable SDK, WebAssembly, and even Windows, macOS, and Linux-based OSes.
 - [tomo](https://github.com/nthnn/tomo) - An AI-like handheld interactable full of emotion companion pet made with ESP32 NodeMCU via Arduino Platform.
 - [rishka](https://github.com/nthnn/rishka) - RISC-V core virtual runtime written in C/C++ (Arduino platform) intended for ESP32-WROVER with PSRAM.
 - [minbox](https://github.com/nthnn/minbox) - Minbox is a simple, minimalistic command-line tool written in Rust, inspired by BusyBox. Made to learn Rust programming language.
 - [ladivic](https://github.com/nthnn/ladivic) - C++ library designed to provide system-level thread- and fail-safe functions with concurrency, atomic, file I/O, IPC, memory management, and system information retrieval functionalities.
 - [medium](https://github.com/nthnn/medium) - My GitHub repository collection of Medium blogs, articles, and related content blogs, articles, and such.
-- [diwa](https://github.com/nthnn/diwa) - Lightweight simple implementation of Artificial Neural Network for microcontrollers.
 - [rheolaeth](https://github.com/nthnn/rheolaeth) - Rheolaeth is a remote tool for controlling shell via HTTP connection using another device in network.
 - [Qrepo](https://github.com/nthnn/Qrepo) - Simple and easy-to-use all-for-one build tool for Windows, Linux, and macOS.
 - [Zync-OS](https://github.com/nthnn/Zync-OS) - Mock-up bootloader and kernel-only operating system with a very basic boring shell written in pure Assembly.
