@@ -95,6 +95,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [tomo](https://github.com/nthnn/tomo) - An AI-like handheld interactable full of emotion companion pet made with ESP32 NodeMCU via Arduino Platform.
 - [rishka](https://github.com/nthnn/rishka) - RISC-V core virtual runtime written in C/C++ (Arduino platform) intended for ESP32-WROVER with PSRAM.
 - [minbox](https://github.com/nthnn/minbox) - Minbox is a simple, minimalistic command-line tool written in Rust, inspired by BusyBox. Made to learn Rust programming language.
 - [ladivic](https://github.com/nthnn/ladivic) - C++ library designed to provide system-level thread- and fail-safe functions with concurrency, atomic, file I/O, IPC, memory management, and system information retrieval functionalities.
