@@ -71,17 +71,20 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://www.arduino.cc"><img src="assets/ic-arduino.png" width="48" /></a>
 	<a href="https://www.espressif.com"><img src="assets/ic-espressif.png" width="48" /></a>
 	<a href="https://platformio.org"><img src="assets/ic-platformio.png" width="48" /></a>
+	<a href="https://tinygo.org/"><img src="assets/ic-tinygo.png" width="48" /></a>
 	<a href="https://www.adafruit.com"><img src="assets/ic-adafruit.png" width="48" /></a>
 	<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img src="assets/ic-avr.png" width="48" /></a>
+	<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="assets/ic-stm32.png" width="48" /></a>
 	<a href="https://www.microchip.com"><img src="assets/ic-atmel.png" width="48" /></a>
 	<a href="https://easyeda.com"><img src="assets/ic-easyeda.png" width="48" /></a>
+	<br/>
 	<a href="https://visualstudio.microsoft.com"><img src="assets/ic-visual-studio.png" width="48" /></a>
 	<a href="https://code.visualstudio.com"><img src="assets/ic-visual-studio-code.png" width="48" /></a>
-	<br/>
 	<a href="https://developer.android.com/studio"><img src="assets/ic-android-studio.png" width="48" /></a>
 	<a href="https://www.jetbrains.com/idea/"><img src="assets/ic-intellij.png" width="48" /></a>
 	<a href="https://netbeans.apache.org"><img src="assets/ic-netbeans.png" width="48" /></a>
 	<a href="https://www.bloodshed.net"><img src="assets/ic-devcpp.png" width="48" /></a>
+	<a href="https://github.com/GValiente/butano"><img src="assets/ic-gba.png" width="48" /></a>
 </p>
 
 ## 📈 My GitHub Stats
