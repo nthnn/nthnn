@@ -98,6 +98,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [NoOS](https://github.com/nthnn/NoOS) - NoOS (No Operating System) is an attempt unikernel framework for developing programs in C++ without OS.
 - [n2cmu](https://github.com/nthnn/n2cmu) - Feedforward Neural Network Coprocessing Microcontroller Unit (CPC via UART) for STM32F103C8T6 Bluepill Development Board written purely in TinyGo.
 - [n2cmu-arduino](https://github.com/nthnn/n2cmu-arduino) - This is the official Arduino library for N2CMU (Neural Network Coprocessing Microcontroller Unit) available on Arduino Package Manager and PlatformIO.
 - [diwa](https://github.com/nthnn/diwa) - Lightweight simple implementation of Artificial Neural Network for Arduino ESP32, ESP8266, RP2040, PlayStation Portable SDK, WebAssembly, and even Windows, macOS, and Linux-based OSes.
