@@ -98,6 +98,8 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [rust-rp2040](https://github.com/nthnn/rust-rp2040) - A starting point for developing embedded Rust applications on Raspberry Pi Pico, featuring Cargo configurations, UF2 memory mapping, and basic LED blinking example.
+- [NateOS](https://github.com/nthnn/NateOS) - NateOS: My own lightweight Linux-based OS distribution, created for enjoyment and personal experimentation.
 - [NoOS](https://github.com/nthnn/NoOS) - NoOS (No Operating System) is an attempt unikernel framework for developing programs in C++ without OS.
 - [n2cmu](https://github.com/nthnn/n2cmu) - Feedforward Neural Network Coprocessing Microcontroller Unit (CPC via UART) for STM32F103C8T6 Bluepill Development Board written purely in TinyGo.
 - [n2cmu-arduino](https://github.com/nthnn/n2cmu-arduino) - This is the official Arduino library for N2CMU (Neural Network Coprocessing Microcontroller Unit) available on Arduino Package Manager and PlatformIO.
