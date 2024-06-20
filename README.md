@@ -98,6 +98,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [DynaConfig](https://github.com/nthnn/DynaConfig) - Arduino WiFi dynamic configuration library for ESP32 using captive portal authentication.
 - [rust-rp2040](https://github.com/nthnn/rust-rp2040) - A starting point for developing embedded Rust applications on Raspberry Pi Pico, featuring Cargo configurations, UF2 memory mapping, and basic LED blinking example.
 - [NateOS](https://github.com/nthnn/NateOS) - NateOS: My own lightweight Linux-based OS distribution, created for enjoyment and personal experimentation.
 - [NoOS](https://github.com/nthnn/NoOS) - NoOS (No Operating System) is an attempt unikernel framework for developing programs in C++ without OS.
