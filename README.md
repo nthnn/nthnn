@@ -98,6 +98,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [tasuke](https://github.com/nthnn/tasuke) - Customizable personal computer assistant that utilizes AI voice command recognition to help automate tasks and provide a more interactive computing experience.
 - [Uartix](https://github.com/nthnn/Uartix) - Strange dynamic programming and scripting language that performs mathematical computations on a connected Raspberry Pi Pico (RP2040) through UART connectivity.
 - [DynaConfig](https://github.com/nthnn/DynaConfig) - Arduino WiFi dynamic configuration library for ESP32 using captive portal authentication.
 - [rust-rp2040](https://github.com/nthnn/rust-rp2040) - A starting point for developing embedded Rust applications on Raspberry Pi Pico, featuring Cargo configurations, UF2 memory mapping, and basic LED blinking example.
