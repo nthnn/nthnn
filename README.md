@@ -8,8 +8,6 @@
 
 Hello, world! I am Nathanne Isip, an error-prone mammal and a dynamic yet versatile persona deeply imbued with an ardent ardor for the realm of technology, specifically encompassing the domains of web development, software engineering, embedded systems, and the creation of mobile applications.
 
-In the capacity of a diligent scholar, I am presently engaged in the pursuit of a distinguished Bachelor of Science degree in the realm of Computer Science, driven by an ambitious vision to emerge as a vanguard influence in the ever-evolving tapestry of contemporary technological advancement. Amidst this intellectual odyssey, my ambitions soar far beyond the mere acquisition of knowledge. The aspiration to stand as a trailblazing force in the realm of modern technology that fuels my endeavors.
-
 <p align="center">
 	<a href="https://nthnn.github.io"><img src="https://img.shields.io/badge/Visit%20my%20website!-007ec6?style=for-the-badge&logoColor=white&logo=Google-Chrome" /></a> <a href="https://nthnn.github.io/assets/files/nthnn-resume.pdf"><img src="https://img.shields.io/badge/Get%20my%20resume-007ec6?style=for-the-badge&logoColor=white&logo=ReadMe" /></a>
 </p>
