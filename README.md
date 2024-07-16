@@ -97,6 +97,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 ## My Projects
 
 - [C3E](https://github.com/nthnn/c3e) - C3E (Complex Compute Core Engine) is a framework, platform, library, and an engine for handling complex computational tasks involving matrices, vectors, and tensors.
+- [Feihua](https://github.com/nthnn/Feihua) - Feihua is an anti-virus/anti-malware program that verifies file hashes against the VirusShare.com database for Windows systems.
 - [mdif](https://github.com/nthnn/mdif) - Minimal Data Image Format (MDIF) is a lightweight image format with minimal data structure and integration with Diwa in mind that balances both simplicity and functionality.
 - [tasuke](https://github.com/nthnn/tasuke) - Customizable personal computer assistant that utilizes AI voice command recognition to help automate tasks and provide a more interactive computing experience.
 - [Uartix](https://github.com/nthnn/Uartix) - Strange dynamic programming and scripting language that performs mathematical computations on a connected Raspberry Pi Pico (RP2040) through UART connectivity.
