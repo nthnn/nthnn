@@ -32,11 +32,12 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://git-scm.com/"><img src="assets/ic-git.png" width="48" /></a>
 	<a href="https://github.com/"><img src="assets/ic-github.png" width="48" /></a>
 	<a href="https://github.com/"><img src="assets/ic-github-actions.png" width="48" /></a>
+	<a href="https://www.docker.com/"><img src="assets/ic-docker.png" width="48" /></a>
 	<a href="https://markdownguide.org/"><img src="assets/ic-markdown.png" width="48" /></a>
 	<a href="https://www.php.net"><img src="assets/ic-php.png" width="48" /></a>
 	<a href="https://www.mysql.com"><img src="assets/ic-mysql.png" width="48" /></a>
-	<a href="https://www.apachefriends.org"><img src="assets/ic-xampp.png" width="48" /></a>
 	<br/>
+	<a href="https://www.apachefriends.org"><img src="assets/ic-xampp.png" width="48" /></a>
 	<a href="https://www.iso.org/standard/74528.html"><img src="assets/ic-clang.png" width="48" /></a>
 	<a href="https://cplusplus.com/"><img src="assets/ic-cpp.png" width="48" /></a>
 	<a href="https://doxygen.nl"><img src="assets/ic-doxygen.png" width="48" /></a>
@@ -45,8 +46,8 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://nodejs.org/en"><img src="assets/ic-nodejs.png" width="48" /></a>
 	<a href="https://nodemon.io/"><img src="assets/ic-nodemon.png" width="48" /></a>
 	<a href="https://jestjs.io"><img src="assets/ic-jest.png" width="48" /></a>
-	<a href="https://parceljs.org/"><img src="assets/ic-parcel.png" width="48" /></a>
 	<br/>
+	<a href="https://parceljs.org/"><img src="assets/ic-parcel.png" width="48" /></a>
 	<a href="https://vitejs.dev/"><img src="assets/ic-vite.png" width="48" /></a>
 	<a href="https://vuejs.org/"><img src="assets/ic-vue.png" width="48" /></a>
 	<a href="https://babeljs.io/"><img src="assets/ic-babel.png" width="48" /></a>
@@ -54,7 +55,6 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://react.dev"><img src="assets/ic-reactjs.png" width="48" /></a>	<a href="https://postcss.org/"><img src="assets/ic-postcss.png" width="48" /></a>
 	<a href="https://tailwindcss.com/"><img src="assets/ic-tailwind.png" width="48" /></a>
 	<a href="https://flowbite.com/"><img src="assets/ic-flowbite.png" width="48" /></a>
-	<a href="https://heroicons.com/"><img src="assets/ic-heroicons.png" width="48" /></a>
 	<br/>
 	<a href="https://firebase.google.com"><img src="assets/ic-firebase.png" width="48" /></a>
 	<a href="https://html5.org"><img src="assets/ic-html5.png" width="48" /></a>
