@@ -96,6 +96,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [goblin3d](https://github.com/nthnn/goblin3d) - Graphics engine for rendering 3D wireframe on monochromatic displays and TFT LCDs without any dependency required for Arduino platform. 
 - [C3E](https://github.com/nthnn/c3e) - C3E (Complex Compute Core Engine) is a framework, platform, library, and an engine for handling complex computational tasks involving matrices, vectors, and tensors.
 - [QLBase](https://github.com/nthnn/QLBase) - Decentralizable, scalable, and reliable backend solution alternative to traditional NoSQL, SaaS, and cloud-based services.
 - [Feihua](https://github.com/nthnn/Feihua) - Feihua is an anti-virus/anti-malware program that verifies file hashes against the VirusShare.com database for Windows systems.
