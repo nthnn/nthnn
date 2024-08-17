@@ -96,6 +96,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [offion](https://github.com/nthnn/offion) - Debian-based personal browser built with Electron framework, integrating Tor for enhanced privacy and anonymous browsing.
 - [goblin3d](https://github.com/nthnn/goblin3d) - Graphics engine for rendering 3D wireframe on monochromatic displays and TFT LCDs without any dependency required for Arduino platform. 
 - [C3E](https://github.com/nthnn/c3e) - C3E (Complex Compute Core Engine) is a framework, platform, library, and an engine for handling complex computational tasks involving matrices, vectors, and tensors.
 - [QLBase](https://github.com/nthnn/QLBase) - Decentralizable, scalable, and reliable backend solution alternative to traditional NoSQL, SaaS, and cloud-based services.
