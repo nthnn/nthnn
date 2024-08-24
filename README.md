@@ -96,6 +96,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [brainfuck-assembly](https://github.com/nthnn/brainfuck-assembly) - Brainfuck Assembly is a human-readable assembly language to simplify the process of writing Brainfuck programs.
 - [offion](https://github.com/nthnn/offion) - Debian-based personal browser built with Electron framework, integrating Tor for enhanced privacy and anonymous browsing.
 - [goblin3d](https://github.com/nthnn/goblin3d) - Graphics engine for rendering 3D wireframe on monochromatic displays and TFT LCDs without any dependency required for Arduino platform. 
 - [C3E](https://github.com/nthnn/c3e) - C3E (Complex Compute Core Engine) is a framework, platform, library, and an engine for handling complex computational tasks involving matrices, vectors, and tensors.
