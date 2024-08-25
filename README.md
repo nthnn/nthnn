@@ -104,6 +104,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 - [Feihua](https://github.com/nthnn/Feihua) - Feihua is an anti-virus/anti-malware program that verifies file hashes against the VirusShare.com database for Windows systems.
 - [mdif](https://github.com/nthnn/mdif) - Minimal Data Image Format (MDIF) is a lightweight image format with minimal data structure and integration with Diwa in mind that balances both simplicity and functionality.
 - [tasuke](https://github.com/nthnn/tasuke) - Customizable personal computer assistant that utilizes AI voice command recognition to help automate tasks and provide a more interactive computing experience.
+- [uartix-vsce](https://github.com/nthnn/uartix-vsce) - Uartix Syntax Highlighting for Visual Studio Code extension that provides syntax highlighting for the Uartix programming language.
 - [Uartix](https://github.com/nthnn/Uartix) - Strange dynamic programming and scripting language that performs mathematical computations on a connected Raspberry Pi Pico (RP2040) through UART connectivity.
 - [DynaConfig](https://github.com/nthnn/DynaConfig) - Arduino WiFi dynamic configuration library for ESP32 using captive portal authentication.
 - [rust-rp2040](https://github.com/nthnn/rust-rp2040) - A starting point for developing embedded Rust applications on Raspberry Pi Pico, featuring Cargo configurations, UF2 memory mapping, and basic LED blinking example.
