@@ -96,7 +96,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
-- [zhivo](https://github.com/nthnn/zhivo) - JIT-compiled dynamic general-purpose programming language utilizing system-available GPU with built-in concurrency and unconventional expressiveness.
+- [n8](https://github.com/nthnn/n8) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
 - [dna_sequence_identification](https://github.com/nthnn/dna_sequence_identification) - DNA sequence classification AI is based on the dataset from the archive of UC Irvine Machine Learning Repository using Random Forest Classification algorithm.
 - [brainfuck-assembly](https://github.com/nthnn/brainfuck-assembly) - Brainfuck Assembly is a human-readable assembly language to simplify the process of writing Brainfuck programs.
 - [offion](https://github.com/nthnn/offion) - Debian-based personal browser built with Electron framework, integrating Tor for enhanced privacy and anonymous browsing.
