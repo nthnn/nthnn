@@ -97,6 +97,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 ## My Projects
 
 - [QLBase](https://github.com/nthnn/QLBase) - Decentralizable, scalable, and reliable backend solution alternative to traditional NoSQL, SaaS, and cloud-based services.
+- [QuickDigest5](https://github.com/nthnn/QuickDigest5) - A lightweight C++ library for computing MD5 hashes of strings and files. Designed for simplicity and efficiency, it provides static utility methods to generate MD5 hashes and convert them to hexadecimal string representations.
 - [sConf](https://github.com/nthnn/sConf) - sConf is a lightweight and flexible C++ library for parsing, managing, and manipulating structured configuration files.
 - [n8](https://github.com/nthnn/n8) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
 - [dna_sequence_identification](https://github.com/nthnn/dna_sequence_identification) - DNA sequence classification AI is based on the dataset from the archive of UC Irvine Machine Learning Repository using Random Forest Classification algorithm.
