@@ -97,6 +97,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 ## My Projects
 
 - [QLBase](https://github.com/nthnn/QLBase) - Decentralizable, scalable, and reliable backend solution alternative to traditional NoSQL, SaaS, and cloud-based services.
+- [MyShell](https://github.com/nthnn/MyShell) - A modern C++ library that provides a robust, cross-platform interface for shell process interaction that allows seamless execution and interaction with shell commands across Windows, Linux, and macOS operating systems.
 - [QuickDigest5](https://github.com/nthnn/QuickDigest5) - A lightweight C++ library for computing MD5 hashes of strings and files. Designed for simplicity and efficiency, it provides static utility methods to generate MD5 hashes and convert them to hexadecimal string representations.
 - [sConf](https://github.com/nthnn/sConf) - sConf is a lightweight and flexible C++ library for parsing, managing, and manipulating structured configuration files.
 - [n8](https://github.com/nthnn/n8) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
