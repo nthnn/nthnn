@@ -2,18 +2,19 @@
 	<img src="img_nthnn.png" width="310" />
 </p>
 
-# 🚀 Hi, I'm [nthnn](https://nthnn.github.io)!
-
-<a href="#"><img src="https://img.shields.io/badge/OS-Debian-debian?logo=debian&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="https://twitter.com/nathannestein"><img src="https://img.shields.io/badge/Twitter-@nathannestein-X?logo=Twitter&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="https://www.linkedin.com/in/nathannestein/"><img src="https://img.shields.io/badge/LinkedIn-Nathanne%20Isip-@nathannestein?logo=LinkedIn&labelColor=gray&color=007ec6" /></a> <a href="https://medium.com/@nthnn"><img src="https://img.shields.io/badge/Medium-nthnn-@nthnn?logo=Medium&labelColor=gray&color=007ec6" /></a> <a href="#"><img src="https://user-badge.committers.top/philippines/nthnn.svg" /></a>
-
 <p align="center">
 	<a href="https://nthnn.github.io"><img src="https://img.shields.io/badge/Visit%20my%20website!-007ec6?style=for-the-badge&logoColor=white&logo=Google-Chrome" /></a> <a href="https://nthnn.github.io/assets/files/nthnn-resume.pdf"><img src="https://img.shields.io/badge/Get%20my%20resume-007ec6?style=for-the-badge&logoColor=white&logo=ReadMe" /></a>
 </p>
 
+# 🚀 Hi, I'm [nthnn](https://nthnn.github.io)!
+
+<a href="#"><img src="https://img.shields.io/badge/OS-Debian-debian?logo=debian&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="https://twitter.com/nathannestein"><img src="https://img.shields.io/badge/Twitter-@nathannestein-X?logo=Twitter&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="https://www.linkedin.com/in/nathannestein/"><img src="https://img.shields.io/badge/LinkedIn-Nathanne%20Isip-@nathannestein?logo=LinkedIn&labelColor=gray&color=007ec6" /></a> <a href="https://medium.com/@nthnn"><img src="https://img.shields.io/badge/Medium-nthnn-@nthnn?logo=Medium&labelColor=gray&color=007ec6" /></a> <a href="#"><img src="https://user-badge.committers.top/philippines/nthnn.svg" /></a>
+
 ## 📈 My GitHub Stats
 
 <div align="center">
-	<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nthnn&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" />
+	<!--<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nthnn&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" />-->
+	<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nthnn&title_color=e9ecef&text_color=e9ecef&bg_color=272b30&hide_border=true&hide=contribs,prs&show=discussions_started,prs_merged&show_icons=true&theme=dark" />
 	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&layout=compact&theme=onedark&hide_border=true&title_color=e9ecef&text_color=e9ecef&bg_color=272b30&hide=html,css,batchfile,jupyter+notebook,shell,cmake&langs_count=18&size_weight=0.5&count_weight=0.5" />
 	<br/>
 	<img alt="Contributions Profile" src="https://github-readme-activity-graph.vercel.app/graph?username=nthnn&custom_title=Nathanne%20Isip%27s%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=272b30&color=ffffff" />
