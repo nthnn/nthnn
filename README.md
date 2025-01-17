@@ -6,83 +6,8 @@
 
 <a href="#"><img src="https://img.shields.io/badge/OS-Debian-debian?logo=debian&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="https://twitter.com/nathannestein"><img src="https://img.shields.io/badge/Twitter-@nathannestein-X?logo=Twitter&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="https://www.linkedin.com/in/nathannestein/"><img src="https://img.shields.io/badge/LinkedIn-Nathanne%20Isip-@nathannestein?logo=LinkedIn&labelColor=gray&color=007ec6" /></a> <a href="https://medium.com/@nthnn"><img src="https://img.shields.io/badge/Medium-nthnn-@nthnn?logo=Medium&labelColor=gray&color=007ec6" /></a> <a href="#"><img src="https://user-badge.committers.top/philippines/nthnn.svg" /></a>
 
-Hello, world! I am Nathanne Isip, an error-prone mammal and a dynamic yet versatile persona deeply imbued with an ardent ardor for the realm of technology, specifically encompassing the domains of web development, software engineering, embedded systems, and the creation of mobile applications.
-
 <p align="center">
 	<a href="https://nthnn.github.io"><img src="https://img.shields.io/badge/Visit%20my%20website!-007ec6?style=for-the-badge&logoColor=white&logo=Google-Chrome" /></a> <a href="https://nthnn.github.io/assets/files/nthnn-resume.pdf"><img src="https://img.shields.io/badge/Get%20my%20resume-007ec6?style=for-the-badge&logoColor=white&logo=ReadMe" /></a>
-</p>
-
-## 🧬 Skills
-
-I possess a versatile skill set in mobile app development, web development, and software engineering. Here are the icon grid of languages, frameworks, technologies, and IDEs I use.
-
-<p align="center">
-	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="assets/ic-csharp.png" width="48" /></a>
-	<a href="https://dotnet.microsoft.com/en-us/"><img src="assets/ic-dotnet.png" width="48" /></a>
-	<a href="https://www.java.com/en/"><img src="assets/ic-java.png" width="48" /></a>
-	<a href="https://kotlinlang.org"><img src="assets/ic-kotlin.png" width="48" /></a>
-	<a href="https://www.rust-lang.org/"><img src="assets/ic-rust.png" width="48" /></a>
-	<a href="https://go.dev/"><img src="assets/ic-golang.png" width="48" /></a>
-	<a href="https://www.typescriptlang.org"><img src="assets/ic-typescript.png" width="48" /></a>
-	<a href="https://www.javascript.com"><img src="assets/ic-js.png" width="48" /></a>
-	<a href="https://www.python.org"><img src="assets/ic-python.png" width="48" /></a>
-	<br/>
-	<a href="https://ballerina.io"><img src="assets/ic-ballerina.png" width="48" /></a>
-	<a href="https://jupyter.org"><img src="assets/ic-jupyter.png" width="48" /></a>
-	<a href="https://git-scm.com/"><img src="assets/ic-git.png" width="48" /></a>
-	<a href="https://github.com/"><img src="assets/ic-github.png" width="48" /></a>
-	<a href="https://github.com/"><img src="assets/ic-github-actions.png" width="48" /></a>
-	<a href="https://www.docker.com/"><img src="assets/ic-docker.png" width="48" /></a>
-	<a href="https://markdownguide.org/"><img src="assets/ic-markdown.png" width="48" /></a>
-	<a href="https://www.php.net"><img src="assets/ic-php.png" width="48" /></a>
-	<a href="https://www.mysql.com"><img src="assets/ic-mysql.png" width="48" /></a>
-	<br/>
-	<a href="https://www.apachefriends.org"><img src="assets/ic-xampp.png" width="48" /></a>
-	<a href="https://www.iso.org/standard/74528.html"><img src="assets/ic-clang.png" width="48" /></a>
-	<a href="https://cplusplus.com/"><img src="assets/ic-cpp.png" width="48" /></a>
-	<a href="https://doxygen.nl"><img src="assets/ic-doxygen.png" width="48" /></a>
-	<a href="https://llvm.org/"><img src="assets/ic-llvm.png" width="48" /></a>
-	<a href="https://vercel.com/"><img src="assets/ic-vercel.png" width="48" /></a>
-	<a href="https://nodejs.org/en"><img src="assets/ic-nodejs.png" width="48" /></a>
-	<a href="https://nodemon.io/"><img src="assets/ic-nodemon.png" width="48" /></a>
-	<a href="https://jestjs.io"><img src="assets/ic-jest.png" width="48" /></a>
-	<br/>
-	<a href="https://parceljs.org/"><img src="assets/ic-parcel.png" width="48" /></a>
-	<a href="https://vitejs.dev/"><img src="assets/ic-vite.png" width="48" /></a>
-	<a href="https://vuejs.org/"><img src="assets/ic-vue.png" width="48" /></a>
-	<a href="https://babeljs.io/"><img src="assets/ic-babel.png" width="48" /></a>
-	<a href="https://www.electronjs.org"><img src="assets/ic-electronjs.png" width="48" /></a>
-	<a href="https://react.dev"><img src="assets/ic-reactjs.png" width="48" /></a>	<a href="https://postcss.org/"><img src="assets/ic-postcss.png" width="48" /></a>
-	<a href="https://tailwindcss.com/"><img src="assets/ic-tailwind.png" width="48" /></a>
-	<a href="https://flowbite.com/"><img src="assets/ic-flowbite.png" width="48" /></a>
-	<br/>
-	<a href="https://firebase.google.com"><img src="assets/ic-firebase.png" width="48" /></a>
-	<a href="https://html5.org"><img src="assets/ic-html5.png" width="48" /></a>
-	<a href="https://pugjs.org/api/getting-started.html"><img src="assets/ic-pug.png" width="48" /></a>
-	<a href="https://www.css3.com"><img src="assets/ic-css3.png" width="48" /></a>
-	<a href="https://sass-lang.com/"><img src="assets/ic-sass.png" width="48" /></a>
-	<a href="https://getbootstrap.com"><img src="assets/ic-bootstrap.png" width="48" /></a>
-	<a href="https://jquery.com"><img src="assets/ic-jquery.png" width="48" /></a>
-	<a href="https://phaser.io/"><img src="assets/ic-phaser.png" width="48" /></a>
-	<a href="https://www.mapeditor.org/"><img src="assets/ic-tiledmap.png" width="48" /></a>
-	<br/>
-	<a href="https://www.arduino.cc"><img src="assets/ic-arduino.png" width="48" /></a>
-	<a href="https://www.espressif.com"><img src="assets/ic-espressif.png" width="48" /></a>
-	<a href="https://platformio.org"><img src="assets/ic-platformio.png" width="48" /></a>
-	<a href="https://tinygo.org/"><img src="assets/ic-tinygo.png" width="48" /></a>
-	<a href="https://www.adafruit.com"><img src="assets/ic-adafruit.png" width="48" /></a>
-	<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img src="assets/ic-avr.png" width="48" /></a>
-	<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="assets/ic-stm32.png" width="48" /></a>
-	<a href="https://www.microchip.com"><img src="assets/ic-atmel.png" width="48" /></a>
-	<a href="https://easyeda.com"><img src="assets/ic-easyeda.png" width="48" /></a>
-	<br/>
-	<a href="https://visualstudio.microsoft.com"><img src="assets/ic-visual-studio.png" width="48" /></a>
-	<a href="https://code.visualstudio.com"><img src="assets/ic-visual-studio-code.png" width="48" /></a>
-	<a href="https://developer.android.com/studio"><img src="assets/ic-android-studio.png" width="48" /></a>
-	<a href="https://www.jetbrains.com/idea/"><img src="assets/ic-intellij.png" width="48" /></a>
-	<a href="https://netbeans.apache.org"><img src="assets/ic-netbeans.png" width="48" /></a>
-	<a href="https://www.bloodshed.net"><img src="assets/ic-devcpp.png" width="48" /></a>
-	<a href="https://github.com/GValiente/butano"><img src="assets/ic-gba.png" width="48" /></a>
 </p>
 
 ## 📈 My GitHub Stats
@@ -94,15 +19,89 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<img alt="Contributions Profile" src="https://github-readme-activity-graph.vercel.app/graph?username=nthnn&custom_title=Nathanne%20Isip%27s%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=272b30&color=ffffff" />
 </div>
 
+## 🧬 Skills
+
+I possess a versatile skill set in mobile app development, web development, and software engineering. Here are the icon grid of languages, frameworks, technologies, and IDEs I use.
+
+<p align="center">
+	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="assets/ic-csharp.png" width="32" /></a>
+	<a href="https://dotnet.microsoft.com/en-us/"><img src="assets/ic-dotnet.png" width="32" /></a>
+	<a href="https://www.java.com/en/"><img src="assets/ic-java.png" width="32" /></a>
+	<a href="https://kotlinlang.org"><img src="assets/ic-kotlin.png" width="32" /></a>
+	<a href="https://www.rust-lang.org/"><img src="assets/ic-rust.png" width="32" /></a>
+	<a href="https://go.dev/"><img src="assets/ic-golang.png" width="32" /></a>
+	<a href="https://www.typescriptlang.org"><img src="assets/ic-typescript.png" width="32" /></a>
+	<a href="https://www.javascript.com"><img src="assets/ic-js.png" width="32" /></a>
+	<a href="https://www.python.org"><img src="assets/ic-python.png" width="32" /></a>
+	<br/>
+	<a href="https://ballerina.io"><img src="assets/ic-ballerina.png" width="32" /></a>
+	<a href="https://jupyter.org"><img src="assets/ic-jupyter.png" width="32" /></a>
+	<a href="https://git-scm.com/"><img src="assets/ic-git.png" width="32" /></a>
+	<a href="https://github.com/"><img src="assets/ic-github.png" width="32" /></a>
+	<a href="https://github.com/"><img src="assets/ic-github-actions.png" width="32" /></a>
+	<a href="https://www.docker.com/"><img src="assets/ic-docker.png" width="32" /></a>
+	<a href="https://markdownguide.org/"><img src="assets/ic-markdown.png" width="32" /></a>
+	<a href="https://www.php.net"><img src="assets/ic-php.png" width="32" /></a>
+	<a href="https://www.mysql.com"><img src="assets/ic-mysql.png" width="32" /></a>
+	<br/>
+	<a href="https://www.apachefriends.org"><img src="assets/ic-xampp.png" width="32" /></a>
+	<a href="https://www.iso.org/standard/74528.html"><img src="assets/ic-clang.png" width="32" /></a>
+	<a href="https://cplusplus.com/"><img src="assets/ic-cpp.png" width="32" /></a>
+	<a href="https://doxygen.nl"><img src="assets/ic-doxygen.png" width="32" /></a>
+	<a href="https://llvm.org/"><img src="assets/ic-llvm.png" width="32" /></a>
+	<a href="https://vercel.com/"><img src="assets/ic-vercel.png" width="32" /></a>
+	<a href="https://nodejs.org/en"><img src="assets/ic-nodejs.png" width="32" /></a>
+	<a href="https://nodemon.io/"><img src="assets/ic-nodemon.png" width="32" /></a>
+	<a href="https://jestjs.io"><img src="assets/ic-jest.png" width="32" /></a>
+	<br/>
+	<a href="https://parceljs.org/"><img src="assets/ic-parcel.png" width="32" /></a>
+	<a href="https://vitejs.dev/"><img src="assets/ic-vite.png" width="32" /></a>
+	<a href="https://vuejs.org/"><img src="assets/ic-vue.png" width="32" /></a>
+	<a href="https://babeljs.io/"><img src="assets/ic-babel.png" width="32" /></a>
+	<a href="https://www.electronjs.org"><img src="assets/ic-electronjs.png" width="32" /></a>
+	<a href="https://react.dev"><img src="assets/ic-reactjs.png" width="32" /></a>	<a href="https://postcss.org/"><img src="assets/ic-postcss.png" width="32" /></a>
+	<a href="https://tailwindcss.com/"><img src="assets/ic-tailwind.png" width="32" /></a>
+	<a href="https://flowbite.com/"><img src="assets/ic-flowbite.png" width="32" /></a>
+	<br/>
+	<a href="https://firebase.google.com"><img src="assets/ic-firebase.png" width="32" /></a>
+	<a href="https://html5.org"><img src="assets/ic-html5.png" width="32" /></a>
+	<a href="https://pugjs.org/api/getting-started.html"><img src="assets/ic-pug.png" width="32" /></a>
+	<a href="https://www.css3.com"><img src="assets/ic-css3.png" width="32" /></a>
+	<a href="https://sass-lang.com/"><img src="assets/ic-sass.png" width="32" /></a>
+	<a href="https://getbootstrap.com"><img src="assets/ic-bootstrap.png" width="32" /></a>
+	<a href="https://jquery.com"><img src="assets/ic-jquery.png" width="32" /></a>
+	<a href="https://phaser.io/"><img src="assets/ic-phaser.png" width="32" /></a>
+	<a href="https://www.mapeditor.org/"><img src="assets/ic-tiledmap.png" width="32" /></a>
+	<br/>
+	<a href="https://www.arduino.cc"><img src="assets/ic-arduino.png" width="32" /></a>
+	<a href="https://www.espressif.com"><img src="assets/ic-espressif.png" width="32" /></a>
+	<a href="https://platformio.org"><img src="assets/ic-platformio.png" width="32" /></a>
+	<a href="https://tinygo.org/"><img src="assets/ic-tinygo.png" width="32" /></a>
+	<a href="https://www.adafruit.com"><img src="assets/ic-adafruit.png" width="32" /></a>
+	<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img src="assets/ic-avr.png" width="32" /></a>
+	<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="assets/ic-stm32.png" width="32" /></a>
+	<a href="https://www.microchip.com"><img src="assets/ic-atmel.png" width="32" /></a>
+	<a href="https://easyeda.com"><img src="assets/ic-easyeda.png" width="32" /></a>
+	<br/>
+	<a href="https://visualstudio.microsoft.com"><img src="assets/ic-visual-studio.png" width="32" /></a>
+	<a href="https://code.visualstudio.com"><img src="assets/ic-visual-studio-code.png" width="32" /></a>
+	<a href="https://developer.android.com/studio"><img src="assets/ic-android-studio.png" width="32" /></a>
+	<a href="https://www.jetbrains.com/idea/"><img src="assets/ic-intellij.png" width="32" /></a>
+	<a href="https://netbeans.apache.org"><img src="assets/ic-netbeans.png" width="32" /></a>
+	<a href="https://www.bloodshed.net"><img src="assets/ic-devcpp.png" width="32" /></a>
+	<a href="https://github.com/GValiente/butano"><img src="assets/ic-gba.png" width="32" /></a>
+</p>
+
 ## My Projects
 
+- [n8](https://github.com/nthnn/n8) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
+- [unsafe_ops](https://github.com/nthnn/unsafe_ops) - Low-level utility library designed to provide direct access to hardware and memory operations for embedded systems, operating systems, and performance-critical applications where low-level control and performance optimization are crucial.
 - [oniontalk](https://github.com/nthnn/oniontalk) - A secure, end-to-end encrypted chat application designed for deployment on the TOR Network as an onion service with room-based conversations with encrypted messaging, user presence tracking, and typing indicators.
 - [Ambassador](https://github.com/nthnn/Ambassador) - Java lightweight, high-performance web framework designed for building scalable and efficient web applications with robust support for database management, middleware integration, routing, and asynchronous execution.
 - [QLBase](https://github.com/nthnn/QLBase) - Decentralizable, scalable, and reliable backend solution alternative to traditional NoSQL, SaaS, and cloud-based services.
 - [MyShell](https://github.com/nthnn/MyShell) - A modern C++ library that provides a robust, cross-platform interface for shell process interaction that allows seamless execution and interaction with shell commands across Windows, Linux, and macOS operating systems.
 - [QuickDigest5](https://github.com/nthnn/QuickDigest5) - A lightweight C++ library for computing MD5 hashes of strings and files. Designed for simplicity and efficiency, it provides static utility methods to generate MD5 hashes and convert them to hexadecimal string representations.
 - [sConf](https://github.com/nthnn/sConf) - sConf is a lightweight and flexible C++ library for parsing, managing, and manipulating structured configuration files.
-- [n8](https://github.com/nthnn/n8) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
 - [dna_sequence_identification](https://github.com/nthnn/dna_sequence_identification) - DNA sequence classification AI is based on the dataset from the archive of UC Irvine Machine Learning Repository using Random Forest Classification algorithm.
 - [brainfuck-assembly](https://github.com/nthnn/brainfuck-assembly) - Brainfuck Assembly is a human-readable assembly language to simplify the process of writing Brainfuck programs.
 - [offion](https://github.com/nthnn/offion) - Debian-based personal browser built with Electron framework, integrating Tor for enhanced privacy and anonymous browsing.
