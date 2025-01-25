@@ -96,6 +96,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 ## My Projects
 
 - [n8](https://github.com/nthnn/n8) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
+- [chisei](https://github.com/nthnn/chisei) - A lightweight, efficient, and user-friendly C++ library for creating, training, and deploying fully connected neural networks; designed with simplicity and performance in mind.
 - [unsafe_ops](https://github.com/nthnn/unsafe_ops) - Low-level utility library designed to provide direct access to hardware and memory operations for embedded systems, operating systems, and performance-critical applications where low-level control and performance optimization are crucial.
 - [oniontalk](https://github.com/nthnn/oniontalk) - A secure, end-to-end encrypted chat application designed for deployment on the TOR Network as an onion service with room-based conversations with encrypted messaging, user presence tracking, and typing indicators.
 - [Ambassador](https://github.com/nthnn/Ambassador) - Java lightweight, high-performance web framework designed for building scalable and efficient web applications with robust support for database management, middleware integration, routing, and asynchronous execution.
