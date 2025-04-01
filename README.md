@@ -96,6 +96,8 @@ I possess a versatile skill set in mobile app development, web development, and 
 ## My Projects
 
 - [n8](https://github.com/nthnn/n8) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
+- [golloom](https://github.com/nthnn/golloom) - Robust Go library designed to facilitate seamless integration and interaction with language models with model management, prompt generation, process monitoring, and version retrieval.
+- [Ura](https://github.com/nthnn/ura) - Ura provides a full suite of banking features—including user management, loan handling, payment transactions, session management, and more—designed with industry best practices for security, performance, and scalability.
 - [quoneq](https://github.com/nthnn/quoneq) - Lightweight, multi-protocol networking library for C++ that provides a simple, unified API for a variety of network protocols based on libcurl developed specially for [n8 programming language](https://github.com/n8lang/n8).
 - [chisei](https://github.com/nthnn/chisei) - A lightweight, efficient, and user-friendly C++ library for creating, training, and deploying fully connected neural networks; designed with simplicity and performance in mind.
 - [unsafe_ops](https://github.com/nthnn/unsafe_ops) - Low-level utility library designed to provide direct access to hardware and memory operations for embedded systems, operating systems, and performance-critical applications where low-level control and performance optimization are crucial.
