@@ -97,6 +97,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 - [rhea](https://github.com/rhea-language/rhea) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
 - [xbin25](https://github.com/nthnn/xbin25) - Go package designed for secure data serialization, combining state-of-the-art encryption, digital signatures, and multi-layer compression ensuring confidentiality, integrity, and authenticity.
+- [gdscript-vsce](https://github.com/nthnn/gdscript-vsce/tree/v0.0.1) - VS Code extension to help developers write and manage GDScript scripts more effectively by offering enhanced code readability through proper syntax highlighting.
 - [golloom](https://github.com/nthnn/golloom) - Robust Go library designed to facilitate seamless integration and interaction with language models with model management, prompt generation, process monitoring, and version retrieval using Ollama.
 - [Ura](https://github.com/nthnn/ura) - Ura provides a full suite of banking features—including user management, loan handling, payment transactions, session management, and more—designed with industry best practices for security, performance, and scalability.
 - [quoneq](https://github.com/nthnn/quoneq) - Lightweight, multi-protocol networking library for C++ that provides a simple, unified API for a variety of network protocols based on libcurl developed specially for [Rhea programming language](https://github.com/rhea-language/rhea).
