@@ -96,6 +96,8 @@ I possess a versatile skill set in mobile app development, web development, and 
 ## My Projects
 
 - [rhea](https://github.com/rhea-language/rhea) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
+- [mvs](https://github.com/nthnn/mvs) - Lightweight version control system written in Go. MVS provides basic init, add, remove, commit, log, branch, checkout, status, and tree commands, with msgpack metadata, Ed25519 signatures for tamper-evident history, and global configuration via YAML.
+- [my-website](https://github.com/nthnn/my-website) - My official website.
 - [xbin25](https://github.com/nthnn/xbin25) - Go package designed for secure data serialization, combining state-of-the-art encryption, digital signatures, and multi-layer compression ensuring confidentiality, integrity, and authenticity.
 - [rivescript-vsce](https://github.com/nthnn/rivescript-vsce) - A Visual Studio Code extension that elevates your RiveScript development workflow by combining robust syntax support with an integrated chat interface with syntax highlighting, language-aware editing features, and a live preview panel.
 - [noko](https://github.com/nthnn/noko) - User-friendly Godot plugin that facilitates seamless interaction with Ollama models via API that empowers developers to enhance their games with interactive Large Language Models (LLMs), enabling dynamic dialogues, intelligent NPCs, and more.​
