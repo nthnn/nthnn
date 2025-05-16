@@ -35,6 +35,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://www.javascript.com"><img src="assets/ic-js.png" width="32" /></a>
 	<a href="https://www.python.org"><img src="assets/ic-python.png" width="32" /></a>
 	<br/>
+	<a href="https://godotengine.org/"><img src="assets/ic-godot.png" width="32" /></a>
 	<a href="https://ballerina.io"><img src="assets/ic-ballerina.png" width="32" /></a>
 	<a href="https://jupyter.org"><img src="assets/ic-jupyter.png" width="32" /></a>
 	<a href="https://git-scm.com/"><img src="assets/ic-git.png" width="32" /></a>
@@ -42,9 +43,10 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://github.com/"><img src="assets/ic-github-actions.png" width="32" /></a>
 	<a href="https://www.docker.com/"><img src="assets/ic-docker.png" width="32" /></a>
 	<a href="https://markdownguide.org/"><img src="assets/ic-markdown.png" width="32" /></a>
+	<a href="https://www.rivescript.com/"><img src="assets/ic-rivescript.png" width="32" /></a>
+	<br/>
 	<a href="https://www.php.net"><img src="assets/ic-php.png" width="32" /></a>
 	<a href="https://www.mysql.com"><img src="assets/ic-mysql.png" width="32" /></a>
-	<br/>
 	<a href="https://www.apachefriends.org"><img src="assets/ic-xampp.png" width="32" /></a>
 	<a href="https://www.iso.org/standard/74528.html"><img src="assets/ic-clang.png" width="32" /></a>
 	<a href="https://cplusplus.com/"><img src="assets/ic-cpp.png" width="32" /></a>
@@ -52,18 +54,18 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://llvm.org/"><img src="assets/ic-llvm.png" width="32" /></a>
 	<a href="https://vercel.com/"><img src="assets/ic-vercel.png" width="32" /></a>
 	<a href="https://nodejs.org/en"><img src="assets/ic-nodejs.png" width="32" /></a>
+	<br/>
 	<a href="https://nodemon.io/"><img src="assets/ic-nodemon.png" width="32" /></a>
 	<a href="https://jestjs.io"><img src="assets/ic-jest.png" width="32" /></a>
-	<br/>
 	<a href="https://parceljs.org/"><img src="assets/ic-parcel.png" width="32" /></a>
 	<a href="https://vitejs.dev/"><img src="assets/ic-vite.png" width="32" /></a>
 	<a href="https://vuejs.org/"><img src="assets/ic-vue.png" width="32" /></a>
 	<a href="https://babeljs.io/"><img src="assets/ic-babel.png" width="32" /></a>
 	<a href="https://www.electronjs.org"><img src="assets/ic-electronjs.png" width="32" /></a>
 	<a href="https://react.dev"><img src="assets/ic-reactjs.png" width="32" /></a>	<a href="https://postcss.org/"><img src="assets/ic-postcss.png" width="32" /></a>
+	<br/>
 	<a href="https://tailwindcss.com/"><img src="assets/ic-tailwind.png" width="32" /></a>
 	<a href="https://flowbite.com/"><img src="assets/ic-flowbite.png" width="32" /></a>
-	<br/>
 	<a href="https://firebase.google.com"><img src="assets/ic-firebase.png" width="32" /></a>
 	<a href="https://html5.org"><img src="assets/ic-html5.png" width="32" /></a>
 	<a href="https://pugjs.org/api/getting-started.html"><img src="assets/ic-pug.png" width="32" /></a>
@@ -71,9 +73,9 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://sass-lang.com/"><img src="assets/ic-sass.png" width="32" /></a>
 	<a href="https://getbootstrap.com"><img src="assets/ic-bootstrap.png" width="32" /></a>
 	<a href="https://jquery.com"><img src="assets/ic-jquery.png" width="32" /></a>
+	<br/>
 	<a href="https://phaser.io/"><img src="assets/ic-phaser.png" width="32" /></a>
 	<a href="https://www.mapeditor.org/"><img src="assets/ic-tiledmap.png" width="32" /></a>
-	<br/>
 	<a href="https://www.arduino.cc"><img src="assets/ic-arduino.png" width="32" /></a>
 	<a href="https://www.espressif.com"><img src="assets/ic-espressif.png" width="32" /></a>
 	<a href="https://platformio.org"><img src="assets/ic-platformio.png" width="32" /></a>
@@ -81,9 +83,9 @@ I possess a versatile skill set in mobile app development, web development, and 
 	<a href="https://www.adafruit.com"><img src="assets/ic-adafruit.png" width="32" /></a>
 	<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img src="assets/ic-avr.png" width="32" /></a>
 	<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="assets/ic-stm32.png" width="32" /></a>
+	<br/>
 	<a href="https://www.microchip.com"><img src="assets/ic-atmel.png" width="32" /></a>
 	<a href="https://easyeda.com"><img src="assets/ic-easyeda.png" width="32" /></a>
-	<br/>
 	<a href="https://visualstudio.microsoft.com"><img src="assets/ic-visual-studio.png" width="32" /></a>
 	<a href="https://code.visualstudio.com"><img src="assets/ic-visual-studio-code.png" width="32" /></a>
 	<a href="https://developer.android.com/studio"><img src="assets/ic-android-studio.png" width="32" /></a>
