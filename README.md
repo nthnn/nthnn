@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<a href="https://nthnn.vercel.app"><img src="https://img.shields.io/badge/Visit%20my%20website!-007ec6?style=for-the-badge&logoColor=white&logo=Google-Chrome" /></a> <a href="https://nthnn.vercel.app/nthnn-resume.pdf"><img src="https://img.shields.io/badge/Get%20my%20resume-007ec6?style=for-the-badge&logoColor=white&logo=ReadMe" /></a>
+	<a href="https://nthnn.dev"><img src="https://img.shields.io/badge/Visit%20my%20website!-007ec6?style=for-the-badge&logoColor=white&logo=Google-Chrome" /></a> <a href="https://nthnn.dev/nthnn-resume.pdf"><img src="https://img.shields.io/badge/Get%20my%20resume-007ec6?style=for-the-badge&logoColor=white&logo=ReadMe" /></a>
 </p>
 
 # 🚀 Hi, I'm [nthnn](https://nthnn.github.io)!
