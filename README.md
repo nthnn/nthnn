@@ -97,6 +97,8 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [middle](https://github.com/nthnn/middle) - Jupyter-first toolkit for quickly brewing, testing, and cloning Ollama-based large language model personalities.
+- [purple](https://github.com/nthnn/purple) - Comprehensive library for system core server-side stack for robust, scale-able, and high-performance system applications in pure C++.
 - [rhea](https://github.com/rhea-language/rhea) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
 - [risbee](https://github.com/nthnn/risbee) - Small, self-contained virtual machine that draws inspiration from the RISC-V instruction set that offers a simple and approachable way to experiment with low-level concepts like registers, memory management, and instruction decoding.
 - [mvs](https://github.com/nthnn/mvs) - Lightweight version control system written in Go. MVS provides basic init, add, remove, commit, log, branch, checkout, status, and tree commands, with msgpack metadata, Ed25519 signatures for tamper-evident history, and global configuration via YAML.
@@ -172,3 +174,4 @@ I possess a versatile skill set in mobile app development, web development, and 
 - [nougat-lang](https://github.com/nthnn/nougat-lang) - An obsolete dynamic scripting yet general-purpose programming language for absolutely nothing written in C#.
 - [Lanzaplicacion](https://github.com/nthnn/Lanzaplicacion) - Android launcher with a super minimalist and primitive-looking UI.
 - [OTG-Nilboard](https://github.com/nthnn/OTG-Nilboard) - Android smartphone app to suppress the default keyboard.
+
