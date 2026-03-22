@@ -97,6 +97,7 @@ I possess a versatile skill set in mobile app development, web development, and 
 
 ## My Projects
 
+- [secret_pii_finder](https://github.com/nthnn/secret_pii_finder) - Security toolset and AI skill for identifying, masking, and remediating hardcoded credentials, API keys, and sensitive PII within software repositories.
 - [middle](https://github.com/nthnn/middle) - Jupyter-first toolkit for quickly brewing, testing, and cloning Ollama-based large language model personalities.
 - [purple](https://github.com/nthnn/purple) - Comprehensive library for system core server-side stack for robust, scale-able, and high-performance system applications in pure C++.
 - [rhea](https://github.com/rhea-language/rhea) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
