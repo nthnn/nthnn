@@ -6,104 +6,22 @@
 	<a href="https://nthnn.dev"><img src="https://img.shields.io/badge/Visit%20my%20website!-007ec6?style=for-the-badge&logoColor=white&logo=Google-Chrome" /></a> <a href="https://nthnn.dev/nthnn-resume.pdf"><img src="https://img.shields.io/badge/Get%20my%20resume-007ec6?style=for-the-badge&logoColor=white&logo=ReadMe" /></a>
 </p>
 
-# 🚀 Hi, I'm [nthnn](https://nthnn.github.io)!
+# Hi, I'm [nthnn](https://nthnn.github.io)!
 
 <a href="#"><img src="https://img.shields.io/badge/OS-Debian-debian?logo=debian&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="https://twitter.com/nathannestein"><img src="https://img.shields.io/badge/Twitter-@nathannestein-X?logo=Twitter&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="https://www.linkedin.com/in/nathannestein/"><img src="https://img.shields.io/badge/LinkedIn-Nathanne%20Isip-@nathannestein?logo=LinkedIn&labelColor=gray&color=007ec6" /></a> <a href="https://medium.com/@nthnn"><img src="https://img.shields.io/badge/Medium-nthnn-@nthnn?logo=Medium&labelColor=gray&color=007ec6" /></a> <a href="#"><img src="https://user-badge.committers.top/philippines/nthnn.svg" /></a>
 
-## 📈 My GitHub Stats
-
-<div align="center">
-	<!--<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nthnn&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" />-->
-	<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nthnn&title_color=e9ecef&text_color=e9ecef&bg_color=272b30&hide_border=true&hide=contribs,prs&show=discussions_started,prs_merged&show_icons=true&theme=dark" />
-	<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthnn&layout=compact&theme=onedark&hide_border=true&title_color=e9ecef&text_color=e9ecef&bg_color=272b30&hide=html,css,batchfile,jupyter+notebook,shell,cmake&langs_count=20&size_weight=0.5&count_weight=0.5" />
-	<br/>
-	<img alt="Contributions Profile" src="https://github-readme-activity-graph.vercel.app/graph?username=nthnn&custom_title=Nathanne%20Isip%27s%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=272b30&color=ffffff" />
-</div>
-
-## 🧬 Skills
-
-I possess a versatile skill set in mobile app development, web development, and software engineering. Here are the icon grid of languages, frameworks, technologies, and IDEs I use.
-
-<p align="center">
-	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="assets/ic-csharp.png" width="32" /></a>
-	<a href="https://dotnet.microsoft.com/en-us/"><img src="assets/ic-dotnet.png" width="32" /></a>
-	<a href="https://www.java.com/en/"><img src="assets/ic-java.png" width="32" /></a>
-	<a href="https://kotlinlang.org"><img src="assets/ic-kotlin.png" width="32" /></a>
-	<a href="https://www.rust-lang.org/"><img src="assets/ic-rust.png" width="32" /></a>
-	<a href="https://go.dev/"><img src="assets/ic-golang.png" width="32" /></a>
-	<a href="https://www.typescriptlang.org"><img src="assets/ic-typescript.png" width="32" /></a>
-	<a href="https://www.javascript.com"><img src="assets/ic-js.png" width="32" /></a>
-	<a href="https://www.python.org"><img src="assets/ic-python.png" width="32" /></a>
-	<br/>
-	<a href="https://godotengine.org/"><img src="assets/ic-godot.png" width="32" /></a>
-	<a href="https://ballerina.io"><img src="assets/ic-ballerina.png" width="32" /></a>
-	<a href="https://jupyter.org"><img src="assets/ic-jupyter.png" width="32" /></a>
-	<a href="https://git-scm.com/"><img src="assets/ic-git.png" width="32" /></a>
-	<a href="https://github.com/"><img src="assets/ic-github.png" width="32" /></a>
-	<a href="https://github.com/"><img src="assets/ic-github-actions.png" width="32" /></a>
-	<a href="https://www.docker.com/"><img src="assets/ic-docker.png" width="32" /></a>
-	<a href="https://markdownguide.org/"><img src="assets/ic-markdown.png" width="32" /></a>
-	<a href="https://www.rivescript.com/"><img src="assets/ic-rivescript.png" width="32" /></a>
-	<br/>
-	<a href="https://www.php.net"><img src="assets/ic-php.png" width="32" /></a>
-	<a href="https://www.mysql.com"><img src="assets/ic-mysql.png" width="32" /></a>
-	<a href="https://www.apachefriends.org"><img src="assets/ic-xampp.png" width="32" /></a>
-	<a href="https://www.iso.org/standard/74528.html"><img src="assets/ic-clang.png" width="32" /></a>
-	<a href="https://cplusplus.com/"><img src="assets/ic-cpp.png" width="32" /></a>
-	<a href="https://doxygen.nl"><img src="assets/ic-doxygen.png" width="32" /></a>
-	<a href="https://llvm.org/"><img src="assets/ic-llvm.png" width="32" /></a>
-	<a href="https://vercel.com/"><img src="assets/ic-vercel.png" width="32" /></a>
-	<a href="https://nodejs.org/en"><img src="assets/ic-nodejs.png" width="32" /></a>
-	<br/>
-	<a href="https://nodemon.io/"><img src="assets/ic-nodemon.png" width="32" /></a>
-	<a href="https://jestjs.io"><img src="assets/ic-jest.png" width="32" /></a>
-	<a href="https://parceljs.org/"><img src="assets/ic-parcel.png" width="32" /></a>
-	<a href="https://vitejs.dev/"><img src="assets/ic-vite.png" width="32" /></a>
-	<a href="https://vuejs.org/"><img src="assets/ic-vue.png" width="32" /></a>
-	<a href="https://babeljs.io/"><img src="assets/ic-babel.png" width="32" /></a>
-	<a href="https://www.electronjs.org"><img src="assets/ic-electronjs.png" width="32" /></a>
-	<a href="https://react.dev"><img src="assets/ic-reactjs.png" width="32" /></a>	<a href="https://postcss.org/"><img src="assets/ic-postcss.png" width="32" /></a>
-	<br/>
-	<a href="https://tailwindcss.com/"><img src="assets/ic-tailwind.png" width="32" /></a>
-	<a href="https://flowbite.com/"><img src="assets/ic-flowbite.png" width="32" /></a>
-	<a href="https://firebase.google.com"><img src="assets/ic-firebase.png" width="32" /></a>
-	<a href="https://html5.org"><img src="assets/ic-html5.png" width="32" /></a>
-	<a href="https://pugjs.org/api/getting-started.html"><img src="assets/ic-pug.png" width="32" /></a>
-	<a href="https://www.css3.com"><img src="assets/ic-css3.png" width="32" /></a>
-	<a href="https://sass-lang.com/"><img src="assets/ic-sass.png" width="32" /></a>
-	<a href="https://getbootstrap.com"><img src="assets/ic-bootstrap.png" width="32" /></a>
-	<a href="https://jquery.com"><img src="assets/ic-jquery.png" width="32" /></a>
-	<br/>
-	<a href="https://phaser.io/"><img src="assets/ic-phaser.png" width="32" /></a>
-	<a href="https://www.mapeditor.org/"><img src="assets/ic-tiledmap.png" width="32" /></a>
-	<a href="https://www.arduino.cc"><img src="assets/ic-arduino.png" width="32" /></a>
-	<a href="https://www.espressif.com"><img src="assets/ic-espressif.png" width="32" /></a>
-	<a href="https://platformio.org"><img src="assets/ic-platformio.png" width="32" /></a>
-	<a href="https://tinygo.org/"><img src="assets/ic-tinygo.png" width="32" /></a>
-	<a href="https://www.adafruit.com"><img src="assets/ic-adafruit.png" width="32" /></a>
-	<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img src="assets/ic-avr.png" width="32" /></a>
-	<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="assets/ic-stm32.png" width="32" /></a>
-	<br/>
-	<a href="https://www.microchip.com"><img src="assets/ic-atmel.png" width="32" /></a>
-	<a href="https://easyeda.com"><img src="assets/ic-easyeda.png" width="32" /></a>
-	<a href="https://visualstudio.microsoft.com"><img src="assets/ic-visual-studio.png" width="32" /></a>
-	<a href="https://code.visualstudio.com"><img src="assets/ic-visual-studio-code.png" width="32" /></a>
-	<a href="https://developer.android.com/studio"><img src="assets/ic-android-studio.png" width="32" /></a>
-	<a href="https://www.jetbrains.com/idea/"><img src="assets/ic-intellij.png" width="32" /></a>
-	<a href="https://netbeans.apache.org"><img src="assets/ic-netbeans.png" width="32" /></a>
-	<a href="https://www.bloodshed.net"><img src="assets/ic-devcpp.png" width="32" /></a>
-	<a href="https://github.com/GValiente/butano"><img src="assets/ic-gba.png" width="32" /></a>
-</p>
+I'm an all-around technology architect in Software Engineering and Mobile/Web Development, specializing in Generative AI/MLOps, Cloud Edge Computing, and Blockchain/Web3.
 
 ## My Projects
 
+- [earnmore](https://github.com/nthnn/earnmore) - Zero-dependency, cryptographically secure Node.js library engineered for issuing, validating, and managing closed-loop reward and gift card networks.
+- [augre](https://github.com/nthnn/augre) - Augre is a powerful, drop-in replacement for Supabase's postgrest-js database SDK.
 - [secret_pii_finder](https://github.com/nthnn/secret_pii_finder) - Security toolset and AI skill for identifying, masking, and remediating hardcoded credentials, API keys, and sensitive PII within software repositories.
 - [middle](https://github.com/nthnn/middle) - Jupyter-first toolkit for quickly brewing, testing, and cloning Ollama-based large language model personalities.
 - [purple](https://github.com/nthnn/purple) - Comprehensive library for system core server-side stack for robust, scale-able, and high-performance system applications in pure C++.
 - [rhea](https://github.com/rhea-language/rhea) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
 - [risbee](https://github.com/nthnn/risbee) - Small, self-contained virtual machine that draws inspiration from the RISC-V instruction set that offers a simple and approachable way to experiment with low-level concepts like registers, memory management, and instruction decoding.
 - [mvs](https://github.com/nthnn/mvs) - Lightweight version control system written in Go. MVS provides basic init, add, remove, commit, log, branch, checkout, status, and tree commands, with msgpack metadata, Ed25519 signatures for tamper-evident history, and global configuration via YAML.
-- [my-website](https://github.com/nthnn/my-website) - My official website.
 - [Glasgow](https://github.com/nthnn/Glasgow) - A flexible, modular, and lightweight .NET library designed to simplify the development of in-memory databases, data manipulation engines, and query interpreters.
 - [xbin25](https://github.com/nthnn/xbin25) - Go package designed for secure data serialization, combining state-of-the-art encryption, digital signatures, and multi-layer compression ensuring confidentiality, integrity, and authenticity.
 - [rivescript-vsce](https://github.com/nthnn/rivescript-vsce) - A Visual Studio Code extension that elevates your RiveScript development workflow by combining robust syntax support with an integrated chat interface with syntax highlighting, language-aware editing features, and a live preview panel.
@@ -142,7 +60,6 @@ I possess a versatile skill set in mobile app development, web development, and 
 - [rishka](https://github.com/nthnn/rishka) - RISC-V core virtual runtime written in C/C++ (Arduino platform) intended for ESP32-WROVER with PSRAM.
 - [minbox](https://github.com/nthnn/minbox) - Minbox is a simple, minimalistic command-line tool written in Rust, inspired by BusyBox. Made to learn Rust programming language.
 - [ladivic](https://github.com/nthnn/ladivic) - C++ library designed to provide system-level thread- and fail-safe functions with concurrency, atomic, file I/O, IPC, memory management, and system information retrieval functionalities.
-- [medium](https://github.com/nthnn/medium) - My GitHub repository collection of Medium blogs, articles, and related content blogs, articles, and such.
 - [rheolaeth](https://github.com/nthnn/rheolaeth) - Rheolaeth is a remote tool for controlling shell via HTTP connection using another device in network.
 - [Qrepo](https://github.com/nthnn/Qrepo) - Simple and easy-to-use all-for-one build tool for Windows, Linux, and macOS.
 - [Zync-OS](https://github.com/nthnn/Zync-OS) - Mock-up bootloader and kernel-only operating system with a very basic boring shell written in pure Assembly.
@@ -175,4 +92,3 @@ I possess a versatile skill set in mobile app development, web development, and 
 - [nougat-lang](https://github.com/nthnn/nougat-lang) - An obsolete dynamic scripting yet general-purpose programming language for absolutely nothing written in C#.
 - [Lanzaplicacion](https://github.com/nthnn/Lanzaplicacion) - Android launcher with a super minimalist and primitive-looking UI.
 - [OTG-Nilboard](https://github.com/nthnn/OTG-Nilboard) - Android smartphone app to suppress the default keyboard.
-
