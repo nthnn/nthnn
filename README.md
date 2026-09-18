@@ -6,7 +6,7 @@
 	<a href="https://nthnn.dev"><img src="https://img.shields.io/badge/Visit%20my%20website!-007ec6?style=for-the-badge&logoColor=white&logo=Google-Chrome" /></a> <a href="https://www.overleaf.com/read/swvdpsctwptx#3e7ca6"><img src="https://img.shields.io/badge/Get%20my%20resume-007ec6?style=for-the-badge&logoColor=white&logo=ReadMe" /></a>
 </p>
 
-# Hi, I'm [nthnn](https://nthnn.github.io)!
+# Hi, I'm [nthnn](https://nthnn.dev)!
 
 <a href="#"><img src="https://img.shields.io/badge/OS-Debian-debian?logo=debian&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="https://twitter.com/nathannestein"><img src="https://img.shields.io/badge/Twitter-@nathannestein-X?logo=Twitter&labelColor=gray&logoColor=white&color=007ec6" /></a> <a href="https://www.linkedin.com/in/nathannestein/"><img src="https://img.shields.io/badge/LinkedIn-Nathanne%20Isip-@nathannestein?logo=LinkedIn&labelColor=gray&color=007ec6" /></a> <a href="https://medium.com/@nthnn"><img src="https://img.shields.io/badge/Medium-nthnn-@nthnn?logo=Medium&labelColor=gray&color=007ec6" /></a>
 
