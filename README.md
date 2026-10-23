@@ -14,6 +14,8 @@ I'm an all-around technology architect in Software Engineering and Mobile/Web De
 
 ## My Projects
 
+<details>
+<summary><b>Click to expand/collapse projects</b></summary>
 - [earnmore](https://github.com/nthnn/earnmore) - Zero-dependency, cryptographically secure Node.js library engineered for issuing, validating, and managing closed-loop reward and gift card networks.
 - [augre](https://github.com/nthnn/augre) - Augre is a powerful, drop-in replacement for Supabase's postgrest-js database SDK.
 - [secret_pii_finder](https://github.com/nthnn/secret_pii_finder) - Security toolset and AI skill for identifying, masking, and remediating hardcoded credentials, API keys, and sensitive PII within software repositories.
@@ -92,3 +94,4 @@ I'm an all-around technology architect in Software Engineering and Mobile/Web De
 - [nougat-lang](https://github.com/nthnn/nougat-lang) - An obsolete dynamic scripting yet general-purpose programming language for absolutely nothing written in C#.
 - [Lanzaplicacion](https://github.com/nthnn/Lanzaplicacion) - Android launcher with a super minimalist and primitive-looking UI.
 - [OTG-Nilboard](https://github.com/nthnn/OTG-Nilboard) - Android smartphone app to suppress the default keyboard.
+</details>
