@@ -16,9 +16,11 @@ I'm an all-around technology architect in Software Engineering and Mobile/Web De
 
 <details>
 <summary><b>Click to expand/collapse projects</b></summary>
+
 - [earnmore](https://github.com/nthnn/earnmore) - Zero-dependency, cryptographically secure Node.js library engineered for issuing, validating, and managing closed-loop reward and gift card networks.
 - [augre](https://github.com/nthnn/augre) - Augre is a powerful, drop-in replacement for Supabase's postgrest-js database SDK.
 - [secret_pii_finder](https://github.com/nthnn/secret_pii_finder) - Security toolset and AI skill for identifying, masking, and remediating hardcoded credentials, API keys, and sensitive PII within software repositories.
+- [kantanj](https://github.com/nthnn/kantanj) - Small single-file C utility that helps you create, build, run and manage minimal Java Maven projects from the command line.
 - [middle](https://github.com/nthnn/middle) - Jupyter-first toolkit for quickly brewing, testing, and cloning Ollama-based large language model personalities.
 - [purple](https://github.com/nthnn/purple) - Comprehensive library for system core server-side stack for robust, scale-able, and high-performance system applications in pure C++.
 - [rhea](https://github.com/rhea-language/rhea) - Just-In-Time-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in & language-level concurrency and unconventional syntax expressiveness.
